@@ -1,5 +1,4 @@
 // src/components/header.js
-
 export function createHeader() {
   const header = document.createElement('header');
   header.className = 'bg-gray-200';
