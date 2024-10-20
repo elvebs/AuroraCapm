@@ -157,12 +157,10 @@ document.addEventListener('DOMContentLoaded', () => {
           </li>
         </ul>
       </li>
-      
     </ul>
   </div>
 </div>
   `;
-
   const footer = createFooter();
   document.body.appendChild(footer);
 });

@@ -1,5 +1,4 @@
 // src/components/header.js
-
 export function createHeader() {
   const header = document.createElement('header');
   header.className = 'bg-gray-200';
@@ -56,7 +55,6 @@ export function createHeader() {
       </div>
     </div>
   `;
-
   // Event listeners for mobile menu toggle
   const mobileMenuButton = header.querySelector('#mobile-menu-button');
   const mobileMenu = header.querySelector('#mobile-menu');
@@ -65,10 +63,8 @@ export function createHeader() {
   mobileMenuButton.addEventListener('click', () => {
     mobileMenu.classList.remove('hidden');
   });
-
   closeMenuButton.addEventListener('click', () => {
     mobileMenu.classList.add('hidden');
   });
-
   return header;
 }
