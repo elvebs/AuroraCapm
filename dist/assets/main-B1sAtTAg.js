@@ -1,7 +1,7 @@
 import{c as l,a as i}from"./footer-CgFcZI0c.js";document.addEventListener("DOMContentLoaded",()=>{const e=l();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
   <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
-  <img src="./../public/images/DSCF6115.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
+  <img dist="./images/DSCF6115.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
   
   <!-- Title and Description Container -->
   <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
@@ -38,7 +38,7 @@ import{c as l,a as i}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
       
       <!-- Button and AlogoN Image -->
       <div class="mt-10 flex items-center">
-        <img src="./../public/images/AlogoN.png" alt="Large Image" class="h-[120px] w-[120px] object-cover mr-4">
+        <img dist="./images/AlogoN.png" alt="Large Image" class="h-[120px] w-[120px] object-cover mr-4">
         <a href="/team" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
           Join our team <span aria-hidden="true">&rarr;</span>
         </a>
@@ -47,8 +47,8 @@ import{c as l,a as i}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
 
     <!-- Right Section: Two Group Images aligned vertically (stacked) -->
     <div class="flex-shrink-0 lg:ml-12 lg:self-start flex flex-col space-y-4">
-      <img src="./../public/images/GrouP2.JPG" alt="Group Image 1" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
-      <img src="./../public/images/GrouP.png" alt="Group Image 2" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
+      <img dist="./images/GrouP2.JPG" alt="Group Image 1" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
+      <img dist="./images/GrouP.png" alt="Group Image 2" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
     </div>
     
   </div>
