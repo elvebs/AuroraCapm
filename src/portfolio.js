@@ -95,7 +95,6 @@ document.addEventListener('DOMContentLoaded', () => {
   </div>
 </div>
 
-
 <!-- Historical companies -->
 <!-- Historical Companies Section -->
 <div class="bg-gray-50 relative mt-12">
