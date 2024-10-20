@@ -58,7 +58,6 @@ export function createHeader() {
       </div>
     </div>
   `;
-
   // Event listeners for mobile menu toggle
   const mobileMenuButton = header.querySelector('#mobile-menu-button');
   const mobileMenu = header.querySelector('#mobile-menu');

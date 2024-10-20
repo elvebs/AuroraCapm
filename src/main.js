@@ -161,9 +161,6 @@ document.addEventListener('DOMContentLoaded', () => {
     </ul>
   </div>
 </div>
-
-
-    
   `;
 
   const footer = createFooter();

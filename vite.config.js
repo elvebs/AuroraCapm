@@ -8,11 +8,10 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        team: resolve(__dirname, 'team.html'),
+        about: resolve(__dirname, 'about.html'),
+        strategy: resolve(__dirname, 'strategy.html'),
         portfolio: resolve(__dirname, 'portfolio.html'),
         contacts: resolve(__dirname, 'contacts.html'),
-        documents: resolve(__dirname, 'strategy.html'),
-        // Add more pages here
       },
     },
   },

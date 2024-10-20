@@ -1,4 +1,4 @@
-// src/team.js
+// src/portfolio.js
 import './main.css';
 import { createHeader } from './components/header.js';
 import { createFooter } from './components/footer.js';
