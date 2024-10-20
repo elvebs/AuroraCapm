@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <!-- More people... -->
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" dist="./images/ptsara-1.png" alt="" style="object-position: center;">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/ptsara-1.png" alt="" style="object-position: center;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Sara Elvebakk</h3>
         <p class="text-base leading-7 text-gray-600">Master of Science in Financial Technology and Computing</p>
         <ul role="list" class="mt-6 flex gap-x-6">
