@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   app.innerHTML = `
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
-  <img src="./../public/images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
+  <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
 
   <!-- Title and Description Container -->
   <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <h3 class="text-xl font-semibold text-gray-800" data-aos="fade-up">October 2024</h3>
           <ul class="mt-4 flex space-x-4">
             <li>
-              <a href="../public/downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+              <a href="./downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
                 <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m5-4h4m-4-4h4m-4-4h4m-6 8v-8l4 4-4 4z" />
                 </svg>
@@ -193,7 +193,7 @@ document.addEventListener('DOMContentLoaded', () => {
               </a>
             </li>
             <li>
-              <a href="../public/downloads/Strategy_Report_October_2024.xlsx" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-green-600 to-green-500 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-green-400 hover:to-green-300 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+              <a href="./downloads/Strategy_Report_October_2024.xlsx" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-green-600 to-green-500 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-green-400 hover:to-green-300 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
                 <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v8m-4-4h8" />
                 </svg>
@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
               </a>
             </li>
             <li>
-              <a href="../public/downloads/Presentation_October_2024.pptx" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-blue-600 to-blue-500 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-blue-400 hover:to-blue-300 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+              <a href="./downloads/Presentation_October_2024.pptx" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-blue-600 to-blue-500 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-blue-400 hover:to-blue-300 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
                 <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M16 12H8m8-6H8m8 12H8m0 0h8m-8 0H4a2 2 0 01-2-2V6a2 2 0 012-2h16a2 2 0 012 2v8a2 2 0 01-2 2h-4" />
                 </svg>

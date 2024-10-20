@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   app.innerHTML = `
   <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
-  <img src="./../public/images/DSCF4709-1.jpg" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
+  <img src="./images/DSCF4709-1.jpg" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
   <!-- Title and Description Container -->
   <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl text-center">
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
         <!-- Download PDF Button -->
-        <a href="../public/downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-6 py-3 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+        <a href="./downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-6 py-3 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
           <!-- PDF Icon -->
           <svg class="h-6 w-6 mr-3" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m5-4h4m-4-4h4m-4-4h4m-6 8v-8l4 4-4 4z" />
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
         <!-- Download PDF Button -->
-        <a href="../public/downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-6 py-3 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+        <a href="./downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-6 py-3 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
           <!-- PDF Icon -->
           <svg class="h-6 w-6 mr-3" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m5-4h4m-4-4h4m-4-4h4m-6 8v-8l4 4-4 4z" />
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
         <!-- Download PDF Button -->
-        <a href="../public/downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-6 py-3 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+        <a href="./downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-6 py-3 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
           <!-- PDF Icon -->
           <svg class="h-6 w-6 mr-3" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m5-4h4m-4-4h4m-4-4h4m-6 8v-8l4 4-4 4z" />

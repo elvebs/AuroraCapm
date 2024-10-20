@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
               </svg>
             </div>
             
-            <img class="aspect-[3/2] w-full rounded-2xl object-cover" src="./../public/images/AlogoN.png" alt="" style="object-position: center;">  
+            <img class="aspect-[3/2] w-full rounded-2xl object-cover" src="./images/AlogoN.png" alt="" style="object-position: center;">  
             <!-- Second h2 and p moved to the top -->
             <h2 class="mt-1 text-2xl font-bold tracking-tight text-gray-900">Let's Connect</h2>
             <p class="text-lg leading-8 text-gray-600"></p>
