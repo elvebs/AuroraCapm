@@ -19,10 +19,10 @@ export function createHeader() {
         </button>
       </div>
       <div class="hidden lg:flex lg:gap-x-12">
-        <a href="/"class="text-sm font-semibold leading-6 text-gray-900">ABOUT</a>
-        <a href="/strategy" class="text-sm font-semibold leading-6 text-gray-900">STRATEGY</a>
-        <a href="/portfolio" class="text-sm font-semibold leading-6 text-gray-900">PORTFOLIO</a>
-        <a href="/contacts" class="text-sm font-semibold leading-6 text-gray-900">CONTACT</a>
+        <a href="./"class="text-sm font-semibold leading-6 text-gray-900">ABOUT</a>
+        <a href="./strategy" class="text-sm font-semibold leading-6 text-gray-900">STRATEGY</a>
+        <a href="./portfolio" class="text-sm font-semibold leading-6 text-gray-900">PORTFOLIO</a>
+        <a href="./contacts" class="text-sm font-semibold leading-6 text-gray-900">CONTACT</a>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end"></div>
     </nav>
