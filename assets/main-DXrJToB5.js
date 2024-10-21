@@ -1,4 +1,4 @@
-import{c as l,a as i}from"./footer-2GrAZIOX.js";document.addEventListener("DOMContentLoaded",()=>{const e=l();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as l,a as s}from"./footer-2GrAZIOX.js";document.addEventListener("DOMContentLoaded",()=>{const e=l();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
   <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF6115.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
@@ -39,7 +39,7 @@ import{c as l,a as i}from"./footer-2GrAZIOX.js";document.addEventListener("DOMCo
       <!-- Button and AlogoN Image -->
       <div class="mt-10 flex items-center">
         <img src="./images/AlogoN.png" alt="Large Image" class="h-[120px] w-[120px] object-cover mr-4">
-        <a href="./portfolio" class="rounded-md bg-[#355172] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#355172] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+        <a href="./team" class="rounded-md bg-[#355172] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#355172] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
           Join our team <span aria-hidden="true">&rarr;</span>
         </a>
       </div>
@@ -145,4 +145,4 @@ import{c as l,a as i}from"./footer-2GrAZIOX.js";document.addEventListener("DOMCo
     </ul>
   </div>
 </div>
-  `;const a=i();document.body.appendChild(a)});
+  `;const a=s();document.body.appendChild(a)});
