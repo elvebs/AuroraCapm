@@ -3,7 +3,7 @@
       <div class="flex lg:flex-1">
         <a href="/" class="-m-1.5 p-1.5">
           <span class="sr-only">Aurora Capital Management</span>
-          <img class="h-8 w-auto" src="./images/Alogo.png" alt="">
+          <img class="h-8 w-auto" src="./../public/images/Alogo.png" alt="">
         </a>
       </div>
       <div class="flex lg:hidden">
@@ -15,10 +15,10 @@
         </button>
       </div>
       <div class="hidden lg:flex lg:gap-x-12">
-        <a href="/"class="text-sm font-semibold leading-6 text-gray-900">ABOUT</a>
-        <a href="/strategy" class="text-sm font-semibold leading-6 text-gray-900">STRATEGY</a>
-        <a href="/portfolio" class="text-sm font-semibold leading-6 text-gray-900">PORTFOLIO</a>
-        <a href="/contacts" class="text-sm font-semibold leading-6 text-gray-900">CONTACT</a>
+        <a href="./"class="text-sm font-semibold leading-6 text-gray-900">ABOUT</a>
+        <a href="./strategy" class="text-sm font-semibold leading-6 text-gray-900">STRATEGY</a>
+        <a href="./portfolio" class="text-sm font-semibold leading-6 text-gray-900">PORTFOLIO</a>
+        <a href="./contacts" class="text-sm font-semibold leading-6 text-gray-900">CONTACT</a>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end"></div>
     </nav>
@@ -41,10 +41,10 @@
         <div class="mt-6 flow-root">
           <div class="-my-6 divide-y divide-gray-500/10">
             <div class="space-y-2 py-6">
-              <a href="/main" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">About</a>
-              <a href="/Strategy" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Strategy</a>
-              <a href="/Portfolio" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Portfolio</a>
-              <a href="/Contacts" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Contact</a>
+              <a href="./main" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">About</a>
+              <a href="./Strategy" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Strategy</a>
+              <a href="./Portfolio" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Portfolio</a>
+              <a href="./Contacts" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Contact</a>
             </div>
           </div>
         </div>
@@ -52,8 +52,6 @@
     </div>
   `;const o=t.querySelector("#mobile-menu-button"),a=t.querySelector("#mobile-menu"),r=t.querySelector("#close-menu-button");return o.addEventListener("click",()=>{a.classList.remove("hidden")}),r.addEventListener("click",()=>{a.classList.add("hidden")}),t}function i(){const t=document.createElement("footer");return t.className="bg-gray-200",t.innerHTML=`
         <div class="mx-auto max-w-7xl overflow-hidden px-1 py-1 sm:py-12 lg:px-8">
-
-
             <p class="mt-1 text-center text-xs leading-5 text-gray-500">&copy; 2024 Aurora Capital Management, Inc. All rights reserved.</p>
         </div>
     `,t}export{i as a,l as c};
