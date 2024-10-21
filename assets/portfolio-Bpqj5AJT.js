@@ -32,7 +32,7 @@ import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
           <a href="/Portfolio/SGLD.L">
             <img src="/Files/files/GenServe%20Full%20Color%20Logo%20Stacked.png" alt="SGLD.L" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Invesco Physical Gold ETC (SGLD.L)</h3>
+          <h3 class="text-lg font-semibold text-gray-800"> Invesco Physical Gold ETC (SGLD.L) </h3>
           <p class="text-gray-600 text-center">Leading provider of energy solutions.</p>
         </div>
 
@@ -41,7 +41,7 @@ import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
           <a href="/Portfolio/DYNF">
             <img src="/Files/files/FLN%20logo-Corp-cmyk.png" alt="DYNF" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">DYNF</h3>
+          <h3 class="text-lg font-semibold text-gray-800"> Ishares US Equity Factor Rotation Active ETF </h3>
           <p class="text-gray-600 text-center"> Description of DYNF.</p>
         </div>
 
