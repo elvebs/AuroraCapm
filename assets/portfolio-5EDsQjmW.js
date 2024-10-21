@@ -1,4 +1,4 @@
-import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as a,a as r}from"./footer-W0O2pRiw.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
@@ -38,82 +38,74 @@ import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
         <!-- Company 2 DYNF  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/DYNF">
-            <img src="/Files/files/FLN%20logo-Corp-cmyk.png" alt="DYNF" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800"> Ishares US Equity Factor Rotation Active ETF </h3>
-          <p class="text-gray-600 text-center"> Description of DYNF.</p>
+          <h3 class="text-lg font-semibold text-gray-800"> DYNF</h3>
+          <p class="text-gray-600 text-center"> Ishares US Equity Factor Rotation Active ETF</p>
         </div>
 
         <!-- Company 3 DGRW  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/DGRW">
-            <img src="/Files/files/LE.png" alt="DGRW" class="h-16 w-auto mb-4" />
           </a>
           <h3 class="text-lg font-semibold text-gray-800">DGRW</h3>
-          <p class="text-gray-600 text-center">Description of DGRW.</p>
+          <p class="text-gray-600 text-center">WisdomTree US Quality Dividend Growth Fund</p>
         </div>
 
         <!-- company 4 FNDX  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/company4">
-            <img src="path/to/company4-logo.png" alt="FNDX " class="h-16 w-auto mb-4" />
           </a>
           <h3 class="text-lg font-semibold text-gray-800">FNDX </h3>
-          <p class="text-gray-600 text-center">Description of FNDX .</p>
+          <p class="text-gray-600 text-center">Schwab Fundamental US Large Company E</p>
         </div>
 
         <!-- company 5 XZMU.L -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/XZMU.L">
-            <img src="path/to/company5-logo.png" alt="XZMU.L" class="h-16 w-auto mb-4" />
           </a>
           <h3 class="text-lg font-semibold text-gray-800">XZMU.L</h3>
-          <p class="text-gray-600 text-center">Description of XZMU.L.</p>
+          <p class="text-gray-600 text-center">Xtrackers MSCI USA ESG UCITS ETF 1C</p>
         </div>
 
         <!-- company 6 FDVV -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/FDVV">
-            <img src="path/to/company6-logo.png" alt="FDVV" class="h-16 w-auto mb-4" />
           </a>
           <h3 class="text-lg font-semibold text-gray-800">FDVV</h3>
-          <p class="text-gray-600 text-center">Description of FDVV.</p>
+          <p class="text-gray-600 text-center">Fidelity High Dividend ETF</p>
         </div>
 
         <!-- company 7 006208.TW -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/006208.TW">
-            <img src="path/to/company6-logo.png" alt="006208.TW" class="h-16 w-auto mb-4" />
+
           </a>
           <h3 class="text-lg font-semibold text-gray-800">006208.TW</h3>
-          <p class="text-gray-600 text-center">Description of 006208.TW.</p>
+          <p class="text-gray-600 text-center">Fubon FTSE TWSE Taiwan 50 ETF</p>
         </div>
 
         <!-- company 8 INR.PA-->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/INR.PA">
-            <img src="path/to/company6-logo.png" alt="INR.PA" class="h-16 w-auto mb-4" />
           </a>
           <h3 class="text-lg font-semibold text-gray-800">INR.PA</h3>
-          <p class="text-gray-600 text-center">Description of INR.PA.</p>
+          <p class="text-gray-600 text-center">Amundi MSCI India II UCITS ETF EUR Acc</p>
         </div>
 
         <!-- company 9 MLPX  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/MLPX">
-            <img src="path/to/company6-logo.png" alt="MLPX" class="h-16 w-auto mb-4" />
           </a>
           <h3 class="text-lg font-semibold text-gray-800">MLPX</h3>
-          <p class="text-gray-600 text-center">Description of MLPX.</p>
+          <p class="text-gray-600 text-center">Global X MLP & Energy Infrastructure ETF</p>
         </div>
 
         <!-- company 10 QDVE.DE -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/QDVE.DE">
-            <img src="path/to/company6-logo.png" alt="QDVE.DE" class="h-16 w-auto mb-4" />
           </a>
           <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
-          <p class="text-gray-600 text-center">Description of QDVE.DE.</p>
+          <p class="text-gray-600 text-center">iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc)</p>
         </div>
 
       </div>
@@ -187,4 +179,4 @@ import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
     </div>
   </div>
 </div>
-  `;const o=s();document.body.appendChild(o)});
+  `;const o=r();document.body.appendChild(o)});
