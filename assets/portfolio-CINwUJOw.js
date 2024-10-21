@@ -28,10 +28,10 @@ import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
       <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
         <!-- Company 1 -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/genserve">
-            <img src="/Files/files/GenServe%20Full%20Color%20Logo%20Stacked.png" alt="GenServe" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/SGLD.L">
+            <img src="/Files/files/GenServe%20Full%20Color%20Logo%20Stacked.png" alt="SGLD.L" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">GenServe</h3>
+          <h3 class="text-lg font-semibold text-gray-800">SGLD.L</h3>
           <p class="text-gray-600 text-center">Leading provider of energy solutions.</p>
         </div>
 
