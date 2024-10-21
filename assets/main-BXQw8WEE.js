@@ -1,4 +1,4 @@
-import{c as l,a as i}from"./footer-BabdP3DR.js";document.addEventListener("DOMContentLoaded",()=>{const e=l();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as l,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMContentLoaded",()=>{const e=l();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
   <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF6115.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
@@ -62,7 +62,7 @@ import{c as l,a as i}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
     </div>
     <ul role="list" class="mx-auto mt-20 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/LeoG.jpeg" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Leonardo Mario Di Gennaro</h3>
         <p class="text-base leading-7 text-gray-600">Master in Finance</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -145,4 +145,4 @@ import{c as l,a as i}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
     </ul>
   </div>
 </div>
-  `;const a=i();document.body.appendChild(a)});
+  `;const a=s();document.body.appendChild(a)});
