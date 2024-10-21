@@ -1,4 +1,4 @@
-import{c as a,a as s}from"./footer-CgFcZI0c.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as a,a as r}from"./footer-2GrAZIOX.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
@@ -21,130 +21,93 @@ import{c as a,a as s}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
   <div class="relative px-6 py-12 sm:px-6 sm:py-16 lg:px-8">
     <div class="mx-auto max-w-7xl">
       <h2 class="text-2xl font-semibold tracking-tight text-gray-900 sm:text-3xl text-center" data-aos="fade-up">
-        Current Companies
+        Current
       </h2>
 
       <!-- Companies Grid -->
       <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
-        <!-- Company 1 -->
+
+        <!-- Company 1 SGLD.L -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/genserve">
-            <img src="/Files/files/GenServe%20Full%20Color%20Logo%20Stacked.png" alt="GenServe" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/SGLD.L">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">GenServe</h3>
-          <p class="text-gray-600 text-center">Leading provider of energy solutions.</p>
+          <h3 class="text-lg font-semibold text-gray-800">SGLD.L</h3>
+          <p class="text-gray-600 text-center">Invesco Physical Gold ETC</p>
         </div>
 
-        <!-- Company 2 -->
+        <!-- Company 2 DYNF  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/first-legal">
-            <img src="/Files/files/FLN%20logo-Corp-cmyk.png" alt="First Legal" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/DYNF">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">First Legal</h3>
-          <p class="text-gray-600 text-center">Innovative legal solutions and services.</p>
+          <h3 class="text-lg font-semibold text-gray-800"> DYNF</h3>
+          <p class="text-gray-600 text-center"> iShares US Equity Factor Rotation Active ETF</p>
         </div>
 
-        <!-- Company 3 -->
+        <!-- Company 3 DGRW  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/lubrication-engineers">
-            <img src="/Files/files/LE.png" alt="Lubrication Engineers" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/DGRW">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Lubrication Engineers</h3>
-          <p class="text-gray-600 text-center">Specialists in lubrication solutions.</p>
+          <h3 class="text-lg font-semibold text-gray-800">DGRW</h3>
+          <p class="text-gray-600 text-center">WisdomTree US Quality Dividend Growth Fund</p>
         </div>
 
-        <!-- Additional Company Entries -->
+        <!-- company 4 FNDX  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/company4">
-            <img src="path/to/company4-logo.png" alt="Company 4" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 4</h3>
-          <p class="text-gray-600 text-center">Description of Company 4.</p>
+          <h3 class="text-lg font-semibold text-gray-800">FNDX </h3>
+          <p class="text-gray-600 text-center">Schwab Fundamental US Large Company E</p>
         </div>
 
+        <!-- company 5 XZMU.L -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/company5">
-            <img src="path/to/company5-logo.png" alt="Company 5" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/XZMU.L">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 5</h3>
-          <p class="text-gray-600 text-center">Description of Company 5.</p>
+          <h3 class="text-lg font-semibold text-gray-800">XZMU.L</h3>
+          <p class="text-gray-600 text-center">Xtrackers MSCI USA ESG UCITS ETF 1C</p>
         </div>
 
+        <!-- company 6 FDVV -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/company6">
-            <img src="path/to/company6-logo.png" alt="Company 6" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/FDVV">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 6</h3>
-          <p class="text-gray-600 text-center">Description of Company 6.</p>
+          <h3 class="text-lg font-semibold text-gray-800">FDVV</h3>
+          <p class="text-gray-600 text-center">Fidelity High Dividend ETF</p>
         </div>
 
-      </div>
-    </div>
-  </div>
-</div>
+        <!-- company 7 006208.TW -->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/006208.TW">
 
-
-<!-- Historical companies -->
-<!-- Historical Companies Section -->
-<div class="bg-gray-50 relative mt-12">
-  <div class="relative px-6 py-12 sm:px-6 sm:py-16 lg:px-8">
-    <div class="mx-auto max-w-7xl">
-      <h2 class="text-2xl font-semibold tracking-tight text-gray-900 sm:text-3xl text-center" data-aos="fade-up">
-        Historical Companies
-      </h2>
-
-      <!-- Companies Grid -->
-      <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
-        <!-- Company 1 -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/national-technical-systems">
-            <img src="/Files/images/Portfolio/NTSLOGO.png" alt="National Technical Systems" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">National Technical Systems</h3>
-          <p class="text-gray-600 text-center">Provider of advanced engineering services.</p>
+          <h3 class="text-lg font-semibold text-gray-800">006208.TW</h3>
+          <p class="text-gray-600 text-center">Fubon FTSE TWSE Taiwan 50 ETF</p>
         </div>
 
-        <!-- Company 2 -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/vls-environmental-solutions">
-            <img src="/Files/images/Portfolio/VLSES_Logo_Full-Color-Transparent.png" alt="VLS Environmental Solutions" class="h-16 w-auto mb-4" />
+        <!-- company 8 INR.PA-->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/INR.PA">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">VLS Environmental Solutions</h3>
-          <p class="text-gray-600 text-center">Expertise in environmental services and solutions.</p>
+          <h3 class="text-lg font-semibold text-gray-800">INR.PA</h3>
+          <p class="text-gray-600 text-center">Amundi MSCI India II UCITS ETF EUR Acc</p>
         </div>
 
-        <!-- Additional Company Entries -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/company3">
-            <img src="path/to/company3-logo.png" alt="Company 3" class="h-16 w-auto mb-4" />
+        <!-- company 9 MLPX  -->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/MLPX">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 3</h3>
-          <p class="text-gray-600 text-center">Description of Company 3.</p>
+          <h3 class="text-lg font-semibold text-gray-800">MLPX</h3>
+          <p class="text-gray-600 text-center">Global X MLP & Energy Infrastructure ETF</p>
         </div>
 
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/company4">
-            <img src="path/to/company4-logo.png" alt="Company 4" class="h-16 w-auto mb-4" />
+        <!-- company 10 QDVE.DE -->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/QDVE.DE">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 4</h3>
-          <p class="text-gray-600 text-center">Description of Company 4.</p>
+          <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
+          <p class="text-gray-600 text-center">iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc)</p>
         </div>
 
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/company5">
-            <img src="path/to/company5-logo.png" alt="Company 5" class="h-16 w-auto mb-4" />
-          </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 5</h3>
-          <p class="text-gray-600 text-center">Description of Company 5.</p>
-        </div>
-
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/company6">
-            <img src="path/to/company6-logo.png" alt="Company 6" class="h-16 w-auto mb-4" />
-          </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 6</h3>
-          <p class="text-gray-600 text-center">Description of Company 6.</p>
-        </div>
       </div>
     </div>
   </div>
@@ -216,4 +179,4 @@ import{c as a,a as s}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
     </div>
   </div>
 </div>
-  `;const o=s();document.body.appendChild(o)});
+  `;const o=r();document.body.appendChild(o)});

@@ -1,4 +1,4 @@
-import{c as a,a as i}from"./footer-CgFcZI0c.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as a,a as l}from"./footer-2GrAZIOX.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
     <div class="relative isolate bg-white">
       <div class="mx-auto grid max-w-7xl grid-cols-1 lg:grid-cols-2">
         <!-- Right Section -->
@@ -92,10 +92,10 @@ import{c as a,a as i}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
               </div>
             </div>
             <div class="mt-8 flex justify-end">
-              <button type="submit" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Send message</button>
+              <button type="submit" class="rounded-md bg-[#355172] px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-[#2a3d52] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#355172]">Send message</button>
             </div>
           </div>
         </form>
       </div>
     </div>
-  `;const s=i();document.body.appendChild(s)});
+  `;const s=l();document.body.appendChild(s)});

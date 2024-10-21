@@ -1,7 +1,7 @@
 (function(){const o=document.createElement("link").relList;if(o&&o.supports&&o.supports("modulepreload"))return;for(const e of document.querySelectorAll('link[rel="modulepreload"]'))r(e);new MutationObserver(e=>{for(const s of e)if(s.type==="childList")for(const n of s.addedNodes)n.tagName==="LINK"&&n.rel==="modulepreload"&&r(n)}).observe(document,{childList:!0,subtree:!0});function a(e){const s={};return e.integrity&&(s.integrity=e.integrity),e.referrerPolicy&&(s.referrerPolicy=e.referrerPolicy),e.crossOrigin==="use-credentials"?s.credentials="include":e.crossOrigin==="anonymous"?s.credentials="omit":s.credentials="same-origin",s}function r(e){if(e.ep)return;e.ep=!0;const s=a(e);fetch(e.href,s)}})();function l(){const t=document.createElement("header");t.className="bg-gray-200",t.innerHTML=`
     <nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
       <div class="flex lg:flex-1">
-        <a href="/" class="-m-1.5 p-1.5">
+        <a href="./" class="-m-1.5 p-1.5">
           <span class="sr-only">Aurora Capital Management</span>
           <img class="h-8 w-auto" src="./images/Alogo.png" alt="">
         </a>
@@ -15,10 +15,10 @@
         </button>
       </div>
       <div class="hidden lg:flex lg:gap-x-12">
-        <a href="/"class="text-sm font-semibold leading-6 text-gray-900">ABOUT</a>
-        <a href="/strategy" class="text-sm font-semibold leading-6 text-gray-900">STRATEGY</a>
-        <a href="/portfolio" class="text-sm font-semibold leading-6 text-gray-900">PORTFOLIO</a>
-        <a href="/contacts" class="text-sm font-semibold leading-6 text-gray-900">CONTACT</a>
+        <a href="./"class="text-sm font-semibold leading-6 text-gray-900">ABOUT</a>
+        <a href="./strategy" class="text-sm font-semibold leading-6 text-gray-900">STRATEGY</a>
+        <a href="./portfolio" class="text-sm font-semibold leading-6 text-gray-900">PORTFOLIO</a>
+        <a href="./contacts" class="text-sm font-semibold leading-6 text-gray-900">CONTACT</a>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end"></div>
     </nav>
@@ -29,7 +29,7 @@
         <div class="flex items-center justify-between">
           <a href="#" class="-m-1.5 p-1.5">
             <span class="sr-only">Your Company</span>
-            <img class="h-8 w-auto" src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600" alt="">
+            <img class="h-8 w-auto" src="./images/Alogo.png" alt="">
           </a>
           <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700" id="close-menu-button">
             <span class="sr-only">Close menu</span>
@@ -41,10 +41,10 @@
         <div class="mt-6 flow-root">
           <div class="-my-6 divide-y divide-gray-500/10">
             <div class="space-y-2 py-6">
-              <a href="/main" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">About</a>
-              <a href="/Strategy" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Strategy</a>
-              <a href="/Portfolio" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Portfolio</a>
-              <a href="/Contacts" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Contact</a>
+              <a href="./" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">About</a>
+              <a href="./strategy" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Strategy</a>
+              <a href="./portfolio" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Portfolio</a>
+              <a href="./contacts" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Contact</a>
             </div>
           </div>
         </div>
@@ -52,8 +52,6 @@
     </div>
   `;const o=t.querySelector("#mobile-menu-button"),a=t.querySelector("#mobile-menu"),r=t.querySelector("#close-menu-button");return o.addEventListener("click",()=>{a.classList.remove("hidden")}),r.addEventListener("click",()=>{a.classList.add("hidden")}),t}function i(){const t=document.createElement("footer");return t.className="bg-gray-200",t.innerHTML=`
         <div class="mx-auto max-w-7xl overflow-hidden px-1 py-1 sm:py-12 lg:px-8">
-
-
             <p class="mt-1 text-center text-xs leading-5 text-gray-500">&copy; 2024 Aurora Capital Management, Inc. All rights reserved.</p>
         </div>
     `,t}export{i as a,l as c};

@@ -1,5 +1,4 @@
 // src/components/footer.js
-
 export function createFooter() {
   const footer = document.createElement('footer');
   footer.className = 'bg-gray-200';

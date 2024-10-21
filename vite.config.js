@@ -3,7 +3,7 @@ import { defineConfig } from 'vite';
 import { resolve } from 'path';
 
 export default defineConfig({
-  base: '/AuroraCapm/', // Set this to your repository name
+  base: '/AuroraCapm/',
   build: {
     rollupOptions: {
       input: {
@@ -12,6 +12,7 @@ export default defineConfig({
         strategy: resolve(__dirname, 'strategy.html'),
         portfolio: resolve(__dirname, 'portfolio.html'),
         contacts: resolve(__dirname, 'contacts.html'),
+        team: resolve(__dirname, 'team.html'),
       },
     },
   },

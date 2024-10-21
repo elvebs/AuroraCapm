@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   app.innerHTML = `
   <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
-  <img src="/images/DSCF6115.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
+  <img src="./images/DSCF6115.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
   
   <!-- Title and Description Container -->
   <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
@@ -50,8 +50,8 @@ document.addEventListener('DOMContentLoaded', () => {
       
       <!-- Button and AlogoN Image -->
       <div class="mt-10 flex items-center">
-        <img src="/images/AlogoN.png" alt="Large Image" class="h-[120px] w-[120px] object-cover mr-4">
-        <a href="/team" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+        <img src="./images/AlogoN.png" alt="Large Image" class="h-[120px] w-[120px] object-cover mr-4">
+        <a href="./team" class="rounded-md bg-[#355172] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#355172] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
           Join our team <span aria-hidden="true">&rarr;</span>
         </a>
       </div>
@@ -59,8 +59,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     <!-- Right Section: Two Group Images aligned vertically (stacked) -->
     <div class="flex-shrink-0 lg:ml-12 lg:self-start flex flex-col space-y-4">
-      <img src="/images/GrouP2.JPG" alt="Group Image 1" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
-      <img src="/images/GrouP.png" alt="Group Image 2" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
+      <img src="./images/GrouP2.JPG" alt="Group Image 1" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
+      <img src="./images/GrouP.png" alt="Group Image 2" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
     </div>
     
   </div>
@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
     </div>
     <ul role="list" class="mx-auto mt-20 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/LeoG.jpeg" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Leonardo Mario Di Gennaro</h3>
         <p class="text-base leading-7 text-gray-600">Master in Finance</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <!-- More people... -->
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="/images/ptsara-1.png" alt="" style="object-position: center;">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/ptsara-1.png" alt="" style="object-position: center;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Sara Elvebakk</h3>
         <p class="text-base leading-7 text-gray-600">Master of Science in Financial Technology and Computing</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="/images/NicP.png" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/NicP.png" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Nicola Fochi</h3>
         <p class="text-base leading-7 text-gray-600">Master in Finance</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="/images/ptluce.jpg" alt="" style="object-position: center top;">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/ptluce.jpg" alt="" style="object-position: center top;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Yi Lu</h3>
         <p class="text-base leading-7 text-gray-600">Master of Science in Financial Technology and Computing</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="/images/AleP.png" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/AleP.png" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Alessandro Zanichelli</h3>
         <p class="text-base leading-7 text-gray-600">Master in Finance</p>
         <ul role="list" class="mt-6 flex gap-x-6">

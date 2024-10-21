@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
       October 2024: Strategy Report 1
       </h2>
       <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600" data-aos="fade-up" data-aos-delay="100">
-        [something here(?)].
+        This report provides key insights and analysis on portfolio performance and strategic adjustments for October 2024.
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
         <!-- Download PDF Button -->
@@ -65,17 +65,9 @@ document.addEventListener('DOMContentLoaded', () => {
       November 2024: Strategy Report 2
       </h2>
       <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600" data-aos="fade-up" data-aos-delay="100">
-        [something here(?)].
+        Our comprehensive strategy for November 2024 is on the way.
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
-        <!-- Download PDF Button -->
-        <a href="./downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-6 py-3 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
-          <!-- PDF Icon -->
-          <svg class="h-6 w-6 mr-3" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m5-4h4m-4-4h4m-4-4h4m-6 8v-8l4 4-4 4z" />
-          </svg>
-          Download PDF
-        </a>
       </div>
     </div>
   </div>
@@ -97,17 +89,9 @@ document.addEventListener('DOMContentLoaded', () => {
       December 2024: Strategy Report 3
       </h2>
       <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600" data-aos="fade-up" data-aos-delay="100">
-        [something here(?)].
+        Our comprehensive strategy for December 2024 is on the way.
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
-        <!-- Download PDF Button -->
-        <a href="./downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-6 py-3 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
-          <!-- PDF Icon -->
-          <svg class="h-6 w-6 mr-3" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m5-4h4m-4-4h4m-4-4h4m-6 8v-8l4 4-4 4z" />
-          </svg>
-          Download PDF
-        </a>
       </div>
     </div>
   </div>
