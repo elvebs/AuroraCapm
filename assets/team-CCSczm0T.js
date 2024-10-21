@@ -25,7 +25,7 @@ import{c as t,a as s}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
       <!-- More people... -->
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./../public/images/ptsara-1.png" alt="" style="object-position: center;">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/ptsara-1.png" alt="" style="object-position: center;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Sara Elvebakk</h3>
         <p class="text-base leading-7 text-gray-600">Master of Science in Financial Technology and Computing</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -41,7 +41,7 @@ import{c as t,a as s}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./../public/images/NicP.png" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/NicP.png" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Nicola Fochi</h3>
         <p class="text-base leading-7 text-gray-600">Master in Finance</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -57,7 +57,7 @@ import{c as t,a as s}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./../public/images/ptluce.jpg" alt="" style="object-position: center top;">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/ptluce.jpg" alt="" style="object-position: center top;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Yi Lu</h3>
         <p class="text-base leading-7 text-gray-600">Master of Science in Financial Technology and Computing</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -73,7 +73,7 @@ import{c as t,a as s}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./../public/images/AleP.png" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/AleP.png" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Alessandro Zanichelli</h3>
         <p class="text-base leading-7 text-gray-600">Master in Finance</p>
         <ul role="list" class="mt-6 flex gap-x-6">
