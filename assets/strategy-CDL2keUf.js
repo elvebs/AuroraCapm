@@ -1,4 +1,4 @@
-import{c as a,a as r}from"./footer-DOIc-P5O.js";document.addEventListener("DOMContentLoaded",()=>{const t=a();document.body.insertBefore(t,document.body.firstChild);const e=document.getElementById("app");e.innerHTML=`
+import{c as a,a as r}from"./footer-DOIc-P5O.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
   <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF4709-1.jpg" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
@@ -53,7 +53,7 @@ import{c as a,a as r}from"./footer-DOIc-P5O.js";document.addEventListener("DOMCo
       November 2024: Strategy Report 2
       </h2>
       <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600" data-aos="fade-up" data-aos-delay="100">
-        [something here(?)].
+        Our comprehensive strategy for November 2024 is on the way.
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
         <!-- Download PDF Button -->
@@ -85,7 +85,7 @@ import{c as a,a as r}from"./footer-DOIc-P5O.js";document.addEventListener("DOMCo
       December 2024: Strategy Report 3
       </h2>
       <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600" data-aos="fade-up" data-aos-delay="100">
-        [something here(?)].
+        Our comprehensive strategy for December 2024 is on the way.
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
         <!-- Download PDF Button -->
