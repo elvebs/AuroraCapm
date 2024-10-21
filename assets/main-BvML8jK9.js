@@ -39,7 +39,7 @@ import{c as l,a as i}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
       <!-- Button and AlogoN Image -->
       <div class="mt-10 flex items-center">
         <img src="./images/AlogoN.png" alt="Large Image" class="h-[120px] w-[120px] object-cover mr-4">
-        <a href="/team" class="rounded-md bg-[#355172] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#355172] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+        <a href="./team" class="rounded-md bg-[#355172] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#355172] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
           Join our team <span aria-hidden="true">&rarr;</span>
         </a>
       </div>
