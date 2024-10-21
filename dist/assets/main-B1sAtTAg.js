@@ -149,7 +149,4 @@ import{c as l,a as i}from"./footer-CgFcZI0c.js";document.addEventListener("DOMCo
     </ul>
   </div>
 </div>
-
-
-    
   `;const a=i();document.body.appendChild(a)});
