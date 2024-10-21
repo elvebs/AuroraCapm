@@ -30,10 +30,9 @@ import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
         <!-- Company 1 SGLD.L -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/SGLD.L">
-            <img src="/Files/files/GenServe%20Full%20Color%20Logo%20Stacked.png" alt="SGLD.L" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800"> Invesco Physical Gold ETC (SGLD.L) </h3>
-          <p class="text-gray-600 text-center">Leading provider of energy solutions.</p>
+          <h3 class="text-lg font-semibold text-gray-800">SGLD.L</h3>
+          <p class="text-gray-600 text-center">Invesco Physical Gold ETC</p>
         </div>
 
         <!-- Company 2 DYNF  -->
