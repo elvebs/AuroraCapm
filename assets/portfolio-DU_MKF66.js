@@ -40,7 +40,7 @@ import{c as a,a as r}from"./footer-W0O2pRiw.js";document.addEventListener("DOMCo
           <a href="/Portfolio/DYNF">
           </a>
           <h3 class="text-lg font-semibold text-gray-800"> DYNF</h3>
-          <p class="text-gray-600 text-center"> Ishares US Equity Factor Rotation Active ETF</p>
+          <p class="text-gray-600 text-center"> iShares US Equity Factor Rotation Active ETF</p>
         </div>
 
         <!-- Company 3 DGRW  -->
