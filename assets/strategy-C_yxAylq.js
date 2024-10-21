@@ -22,7 +22,7 @@ import{c as a,a as r}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
       October 2024: Strategy Report 1
       </h2>
       <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600" data-aos="fade-up" data-aos-delay="100">
-        [something here(?)].
+        This report provides key insights and analysis on portfolio performance and strategic adjustments for October 2024..
       </p>
       <div class="mt-10 flex items-center justify-center gap-x-6" data-aos="fade-up" data-aos-delay="200">
         <!-- Download PDF Button -->
