@@ -26,7 +26,8 @@ import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
 
       <!-- Companies Grid -->
       <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
-        <!-- Company 1 -->
+
+        <!-- Company 1 SGLD.L -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/SGLD.L">
             <img src="/Files/files/GenServe%20Full%20Color%20Logo%20Stacked.png" alt="SGLD.L" class="h-16 w-auto mb-4" />
@@ -35,115 +36,87 @@ import{c as a,a as s}from"./footer-BabdP3DR.js";document.addEventListener("DOMCo
           <p class="text-gray-600 text-center">Leading provider of energy solutions.</p>
         </div>
 
-        <!-- Company 2 -->
+        <!-- Company 2 DYNF  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/first-legal">
-            <img src="/Files/files/FLN%20logo-Corp-cmyk.png" alt="First Legal" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/DYNF">
+            <img src="/Files/files/FLN%20logo-Corp-cmyk.png" alt="DYNF" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">First Legal</h3>
-          <p class="text-gray-600 text-center">Innovative legal solutions and services.</p>
+          <h3 class="text-lg font-semibold text-gray-800">DYNF</h3>
+          <p class="text-gray-600 text-center"> Description of DYNF.</p>
         </div>
 
-        <!-- Company 3 -->
+        <!-- Company 3 DGRW  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/lubrication-engineers">
-            <img src="/Files/files/LE.png" alt="Lubrication Engineers" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/DGRW">
+            <img src="/Files/files/LE.png" alt="DGRW" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Lubrication Engineers</h3>
-          <p class="text-gray-600 text-center">Specialists in lubrication solutions.</p>
+          <h3 class="text-lg font-semibold text-gray-800">DGRW</h3>
+          <p class="text-gray-600 text-center">Description of DGRW.</p>
         </div>
 
-        <!-- Additional Company Entries -->
+        <!-- company 4 FNDX  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <a href="/Portfolio/company4">
-            <img src="path/to/company4-logo.png" alt="Company 4" class="h-16 w-auto mb-4" />
+            <img src="path/to/company4-logo.png" alt="FNDX " class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 4</h3>
-          <p class="text-gray-600 text-center">Description of Company 4.</p>
+          <h3 class="text-lg font-semibold text-gray-800">FNDX </h3>
+          <p class="text-gray-600 text-center">Description of FNDX .</p>
         </div>
 
+        <!-- company 5 XZMU.L -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/company5">
-            <img src="path/to/company5-logo.png" alt="Company 5" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/XZMU.L">
+            <img src="path/to/company5-logo.png" alt="XZMU.L" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 5</h3>
-          <p class="text-gray-600 text-center">Description of Company 5.</p>
+          <h3 class="text-lg font-semibold text-gray-800">XZMU.L</h3>
+          <p class="text-gray-600 text-center">Description of XZMU.L.</p>
         </div>
 
+        <!-- company 6 FDVV -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/company6">
-            <img src="path/to/company6-logo.png" alt="Company 6" class="h-16 w-auto mb-4" />
+          <a href="/Portfolio/FDVV">
+            <img src="path/to/company6-logo.png" alt="FDVV" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 6</h3>
-          <p class="text-gray-600 text-center">Description of Company 6.</p>
+          <h3 class="text-lg font-semibold text-gray-800">FDVV</h3>
+          <p class="text-gray-600 text-center">Description of FDVV.</p>
         </div>
 
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Historical companies -->
-<!-- Historical Companies Section -->
-<div class="bg-gray-50 relative mt-12">
-  <div class="relative px-6 py-12 sm:px-6 sm:py-16 lg:px-8">
-    <div class="mx-auto max-w-7xl">
-      <h2 class="text-2xl font-semibold tracking-tight text-gray-900 sm:text-3xl text-center" data-aos="fade-up">
-        Historical Companies
-      </h2>
-
-      <!-- Companies Grid -->
-      <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
-        <!-- Company 1 -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/national-technical-systems">
-            <img src="/Files/images/Portfolio/NTSLOGO.png" alt="National Technical Systems" class="h-16 w-auto mb-4" />
+        <!-- company 7 006208.TW -->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/006208.TW">
+            <img src="path/to/company6-logo.png" alt="006208.TW" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">National Technical Systems</h3>
-          <p class="text-gray-600 text-center">Provider of advanced engineering services.</p>
+          <h3 class="text-lg font-semibold text-gray-800">006208.TW</h3>
+          <p class="text-gray-600 text-center">Description of 006208.TW.</p>
         </div>
 
-        <!-- Company 2 -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/vls-environmental-solutions">
-            <img src="/Files/images/Portfolio/VLSES_Logo_Full-Color-Transparent.png" alt="VLS Environmental Solutions" class="h-16 w-auto mb-4" />
+        <!-- company 8 INR.PA-->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/INR.PA">
+            <img src="path/to/company6-logo.png" alt="INR.PA" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">VLS Environmental Solutions</h3>
-          <p class="text-gray-600 text-center">Expertise in environmental services and solutions.</p>
+          <h3 class="text-lg font-semibold text-gray-800">INR.PA</h3>
+          <p class="text-gray-600 text-center">Description of INR.PA.</p>
         </div>
 
-        <!-- Additional Company Entries -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/company3">
-            <img src="path/to/company3-logo.png" alt="Company 3" class="h-16 w-auto mb-4" />
+        <!-- company 9 MLPX  -->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/MLPX">
+            <img src="path/to/company6-logo.png" alt="MLPX" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 3</h3>
-          <p class="text-gray-600 text-center">Description of Company 3.</p>
+          <h3 class="text-lg font-semibold text-gray-800">MLPX</h3>
+          <p class="text-gray-600 text-center">Description of MLPX.</p>
         </div>
 
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/company4">
-            <img src="path/to/company4-logo.png" alt="Company 4" class="h-16 w-auto mb-4" />
+        <!-- company 10 QDVE.DE -->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/QDVE.DE">
+            <img src="path/to/company6-logo.png" alt="QDVE.DE" class="h-16 w-auto mb-4" />
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 4</h3>
-          <p class="text-gray-600 text-center">Description of Company 4.</p>
+          <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
+          <p class="text-gray-600 text-center">Description of QDVE.DE.</p>
         </div>
 
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/company5">
-            <img src="path/to/company5-logo.png" alt="Company 5" class="h-16 w-auto mb-4" />
-          </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 5</h3>
-          <p class="text-gray-600 text-center">Description of Company 5.</p>
-        </div>
-
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-white">
-          <a href="/Portfolio/company6">
-            <img src="path/to/company6-logo.png" alt="Company 6" class="h-16 w-auto mb-4" />
-          </a>
-          <h3 class="text-lg font-semibold text-gray-800">Company 6</h3>
-          <p class="text-gray-600 text-center">Description of Company 6.</p>
-        </div>
       </div>
     </div>
   </div>
