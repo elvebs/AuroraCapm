@@ -67,12 +67,12 @@ import{c as a,a as r}from"./footer-2GrAZIOX.js";document.addEventListener("DOMCo
           <p class="text-gray-600 text-center">Xtrackers MSCI USA ESG UCITS ETF 1C</p>
         </div>
 
-        <!-- company 6 FDVV -->
+        <!-- company 6 LVHI  -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/FDVV">
+          <a href="/Portfolio/LVHI">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">FDVV</h3>
-          <p class="text-gray-600 text-center">Fidelity High Dividend ETF</p>
+          <h3 class="text-lg font-semibold text-gray-800">LVHI</h3>
+          <p class="text-gray-600 text-center">Franklin International Low Volatility High Dividend Index ETF</p>
         </div>
 
         <!-- company 7 006208.TW -->
@@ -106,6 +106,22 @@ import{c as a,a as r}from"./footer-2GrAZIOX.js";document.addEventListener("DOMCo
           </a>
           <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
           <p class="text-gray-600 text-center">iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc)</p>
+        </div>
+
+        <!-- company 11 DXJ -->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/QDVE.DE">
+          </a>
+          <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
+          <p class="text-gray-600 text-center">WisdomTree Japan Hedged Equity Fund</p>
+        </div>
+
+        <!-- company 12 ARGT -->
+        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+          <a href="/Portfolio/QDVE.DE">
+          </a>
+          <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
+          <p class="text-gray-600 text-center">Global X MSCI Argentina ETF</p>
         </div>
 
       </div>
