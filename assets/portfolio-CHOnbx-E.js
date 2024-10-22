@@ -31,7 +31,7 @@ import{c as a,a as i}from"./footer-DRsGtOvg.js";document.addEventListener("DOMCo
         <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
           <a href="/Portfolio/LVHI"></a>
           <h3 class="text-lg font-semibold text-gray-800">LVHI</h3>
-          <p class="text-gray-600">Franklin International Low Volatility High Dividend Index ETF</p>
+          <p class="text-gray-600-center">Franklin International Low Volatility High Dividend Index ETF</p>
           <p class="text-black-800 font-semibold">18.2%</p>
           <p class="text-gray-600 mt-2">This ETF focuses on high-dividend, low-volatility equities in developed markets outside the U.S. By investing primarily in profitable companies with high dividend yields, LVHI aligns with our portfolio’s goal of minimizing volatility while providing steady income.</p>
         </div>
