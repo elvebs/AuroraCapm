@@ -82,7 +82,7 @@ import{c as l,a as s}from"./footer-DRsGtOvg.js";document.addEventListener("DOMCo
       <li>
         <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/ptsara-1.png" alt="" style="object-position: center;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Sara Elvebakk</h3>
-        <p class="text-base leading-7 text-gray-600">Software Developer/p>
+        <p class="text-base leading-7 text-gray-600">Software Developer</p>
         <ul role="list" class="mt-6 flex gap-x-6">
           <li>
             <a href="#" class="text-gray-400 hover:text-gray-500">
