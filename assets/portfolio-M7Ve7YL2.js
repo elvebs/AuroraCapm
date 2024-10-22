@@ -1,4 +1,4 @@
-import{c as a,a as r}from"./footer-CDDkkibT.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as r,a}from"./footer-CDDkkibT.js";document.addEventListener("DOMContentLoaded",()=>{const e=r();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
@@ -36,92 +36,91 @@ import{c as a,a as r}from"./footer-CDDkkibT.js";document.addEventListener("DOMCo
         </div>
 
         <!-- Company 2 DYNF  -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/DYNF">
-          </a>
-          <h3 class="text-lg font-semibold text-gray-800"> DYNF</h3>
-          <p class="text-gray-600 text-center"> iShares US Equity Factor Rotation Active ETF</p>
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/DYNF"></a>
+          <h3 class="text-lg font-semibold text-gray-800">DYNF</h3>
+          <p class="text-gray-600 text-center">iShares US Equity Factor Rotation Active ETF</p>
+          <p class="text-green-600 text-center font-semibold">13.6%</p>
         </div>
 
         <!-- Company 3 DGRW  -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/DGRW">
-          </a>
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/DGRW"></a>
           <h3 class="text-lg font-semibold text-gray-800">DGRW</h3>
           <p class="text-gray-600 text-center">WisdomTree US Quality Dividend Growth Fund</p>
+          <p class="text-green-600 text-center font-semibold">14.9%</p>
         </div>
 
-        <!-- company 4 FNDX  -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/company4">
-          </a>
-          <h3 class="text-lg font-semibold text-gray-800">FNDX </h3>
+        <!-- Company 4 FNDX  -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/FNDX"></a>
+          <h3 class="text-lg font-semibold text-gray-800">FNDX</h3>
           <p class="text-gray-600 text-center">Schwab Fundamental US Large Company E</p>
+          <p class="text-green-600 text-center font-semibold">10.2%</p>
         </div>
 
-        <!-- company 5 XZMU.L -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/XZMU.L">
-          </a>
+        <!-- Company 5 XZMU.L -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/XZMU.L"></a>
           <h3 class="text-lg font-semibold text-gray-800">XZMU.L</h3>
           <p class="text-gray-600 text-center">Xtrackers MSCI USA ESG UCITS ETF 1C</p>
+          <p class="text-green-600 text-center font-semibold">10.2%</p>
         </div>
 
-        <!-- company 6 LVHI  -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/LVHI">
-          </a>
+        <!-- Company 6 LVHI  -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/LVHI"></a>
           <h3 class="text-lg font-semibold text-gray-800">LVHI</h3>
           <p class="text-gray-600 text-center">Franklin International Low Volatility High Dividend Index ETF</p>
+          <p class="text-green-600 text-center font-semibold">18.2%</p>
         </div>
 
-        <!-- company 7 006208.TW -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/006208.TW">
-
-          </a>
+        <!-- Company 7 006208.TW -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/006208.TW"></a>
           <h3 class="text-lg font-semibold text-gray-800">006208.TW</h3>
           <p class="text-gray-600 text-center">Fubon FTSE TWSE Taiwan 50 ETF</p>
+          <p class="text-green-600 text-center font-semibold">5.56%</p>
         </div>
 
-        <!-- company 8 INR.PA-->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/INR.PA">
-          </a>
+        <!-- Company 8 INR.PA -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/INR.PA"></a>
           <h3 class="text-lg font-semibold text-gray-800">INR.PA</h3>
           <p class="text-gray-600 text-center">Amundi MSCI India II UCITS ETF EUR Acc</p>
+          <p class="text-green-600 text-center font-semibold">2.43%</p>
         </div>
 
-        <!-- company 9 MLPX  -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/MLPX">
-          </a>
+        <!-- Company 9 MLPX  -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/MLPX"></a>
           <h3 class="text-lg font-semibold text-gray-800">MLPX</h3>
           <p class="text-gray-600 text-center">Global X MLP & Energy Infrastructure ETF</p>
+          <p class="text-green-600 text-center font-semibold">1.63%</p>
         </div>
 
-        <!-- company 10 QDVE.DE -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/QDVE.DE">
-          </a>
+        <!-- Company 10 QDVE.DE -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/QDVE.DE"></a>
           <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
           <p class="text-gray-600 text-center">iShares S&P 500 Information Technology Sector UCITS ETF USD (Acc)</p>
+          <p class="text-green-600 text-center font-semibold">2.84%</p>
         </div>
 
-        <!-- company 11 DXJ -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/DXJ">
-          </a>
+        <!-- Company 11 DXJ -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/DXJ"></a>
           <h3 class="text-lg font-semibold text-gray-800">DXJ</h3>
           <p class="text-gray-600 text-center">WisdomTree Japan Hedged Equity Fund</p>
+          <p class="text-green-600 text-center font-semibold">0.728%</p>
         </div>
 
-        <!-- company 12 ARGT -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/ARGT">
-          </a>
+        <!-- Company 12 ARGT -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/ARGT"></a>
           <h3 class="text-lg font-semibold text-gray-800">ARGT</h3>
           <p class="text-gray-600 text-center">Global X MSCI Argentina ETF</p>
+          <p class="text-green-600 text-center font-semibold">4.65%%</p>
         </div>
 
       </div>
@@ -195,4 +194,4 @@ import{c as a,a as r}from"./footer-CDDkkibT.js";document.addEventListener("DOMCo
     </div>
   </div>
 </div>
-  `;const o=r();document.body.appendChild(o)});
+  `;const o=a();document.body.appendChild(o)});
