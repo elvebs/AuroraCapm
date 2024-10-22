@@ -110,17 +110,17 @@ import{c as a,a as r}from"./footer-2GrAZIOX.js";document.addEventListener("DOMCo
 
         <!-- company 11 DXJ -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/QDVE.DE">
+          <a href="/Portfolio/DXJ">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
+          <h3 class="text-lg font-semibold text-gray-800">DXJ</h3>
           <p class="text-gray-600 text-center">WisdomTree Japan Hedged Equity Fund</p>
         </div>
 
         <!-- company 12 ARGT -->
         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
-          <a href="/Portfolio/QDVE.DE">
+          <a href="/Portfolio/ARGT">
           </a>
-          <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
+          <h3 class="text-lg font-semibold text-gray-800">ARGT</h3>
           <p class="text-gray-600 text-center">Global X MSCI Argentina ETF</p>
         </div>
 
