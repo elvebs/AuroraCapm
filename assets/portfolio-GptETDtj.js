@@ -88,7 +88,7 @@ import{c as r,a}from"./footer-CDDkkibT.js";document.addEventListener("DOMContent
           <a href="/Portfolio/ARGT"></a>
           <h3 class="text-lg font-semibold text-gray-800">ARGT</h3>
           <p class="text-gray-600 text-center">Global X MSCI Argentina ETF</p>
-          <p class="text-green-600 text-center font-semibold">4.65%%</p>
+          <p class="text-green-600 text-center font-semibold">4.65%</p>
         </div>
 
         <!-- Company 9 QDVE.DE -->
