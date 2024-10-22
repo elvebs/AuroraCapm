@@ -1,4 +1,4 @@
-import{c as a,a as i}from"./footer-DRsGtOvg.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as o,a as i}from"./footer-eAJP7J39.js";document.addEventListener("DOMContentLoaded",()=>{const e=o();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
@@ -164,21 +164,12 @@ import{c as a,a as i}from"./footer-DRsGtOvg.js";document.addEventListener("DOMCo
           <h3 class="text-xl font-semibold text-gray-800" data-aos="fade-up">October 2024</h3>
           <ul class="mt-4 flex space-x-4">
             <li>
-              <a href="./downloads/Rotation_matrix.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+              <a href="./downloads/Aurora Capital Management Group 7 OCT 2024.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
                 <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m5-4h4m-4-4h4m-4-4h4m-6 8v-8l4 4-4 4z" />
                 </svg>
                 Download PDF
               </a>
-            </li>
-            <li>
-              <a href="./downloads/Strategy_Report_October_2024.xlsx" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-green-600 to-green-500 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-green-400 hover:to-green-300 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
-                <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v8m-4-4h8" />
-                </svg>
-                Download Excel
-              </a>
-            </li>
             <li>
               <a href="./downloads/Presentation_October_2024.pptx" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-blue-600 to-blue-500 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-blue-400 hover:to-blue-300 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
                 <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
@@ -206,4 +197,4 @@ import{c as a,a as i}from"./footer-DRsGtOvg.js";document.addEventListener("DOMCo
     </div>
   </div>
 </div>
-  `;const o=i();document.body.appendChild(o)});
+  `;const a=i();document.body.appendChild(a)});
