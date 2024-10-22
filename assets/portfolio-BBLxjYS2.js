@@ -1,4 +1,4 @@
-import{c as r,a}from"./footer-BTet7Zru.js";document.addEventListener("DOMContentLoaded",()=>{const e=r();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as r,a}from"./footer-Cez2914A.js";document.addEventListener("DOMContentLoaded",()=>{const e=r();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
@@ -25,7 +25,8 @@ import{c as r,a}from"./footer-BTet7Zru.js";document.addEventListener("DOMContent
       </h2>
 
       <!-- Companies Grid -->
-      <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
+      <div class="container mx-auto p-6">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
 
         <!-- Company 1 LVHI  -->
         <div class="flex flex-col items-start p-6 border rounded-lg shadow-lg bg-white hover:bg-gray-100 transition">
