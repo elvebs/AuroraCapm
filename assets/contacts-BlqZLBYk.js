@@ -1,4 +1,4 @@
-import{c as a,a as i}from"./footer-2GrAZIOX.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as a,a as i}from"./footer-CDDkkibT.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
     <div class="relative isolate bg-white">
       <div class="mx-auto grid max-w-7xl grid-cols-1 lg:grid-cols-2">
         <!-- Right Section -->
