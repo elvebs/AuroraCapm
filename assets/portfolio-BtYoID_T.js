@@ -27,20 +27,20 @@ import{c as r,a}from"./footer-CDDkkibT.js";document.addEventListener("DOMContent
       <!-- Companies Grid -->
       <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
 
-        <!-- Company 1 SGLD.L -->
+        <!-- Company 1 LVHI  -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/LVHI"></a>
+          <h3 class="text-lg font-semibold text-gray-800">LVHI</h3>
+          <p class="text-gray-600 text-center">Franklin International Low Volatility High Dividend Index ETF</p>
+          <p class="text-green-600 text-center font-semibold">18.2%</p>
+        </div>
+
+        <!-- Company 2 SGLD.L -->
         <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
           <a href="/Portfolio/SGLD.L"></a>
           <h3 class="text-lg font-semibold text-gray-800">SGLD.L</h3>
           <p class="text-gray-600 text-center">Invesco Physical Gold ETC</p>
           <p class="text-green-600 text-center font-semibold">15.2%</p>
-        </div>
-
-        <!-- Company 2 DYNF  -->
-        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
-          <a href="/Portfolio/DYNF"></a>
-          <h3 class="text-lg font-semibold text-gray-800">DYNF</h3>
-          <p class="text-gray-600 text-center">iShares US Equity Factor Rotation Active ETF</p>
-          <p class="text-green-600 text-center font-semibold">13.6%</p>
         </div>
 
         <!-- Company 3 DGRW  -->
@@ -51,7 +51,15 @@ import{c as r,a}from"./footer-CDDkkibT.js";document.addEventListener("DOMContent
           <p class="text-green-600 text-center font-semibold">14.9%</p>
         </div>
 
-        <!-- Company 4 FNDX  -->
+        <!-- Company 4 DYNF  -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/DYNF"></a>
+          <h3 class="text-lg font-semibold text-gray-800">DYNF</h3>
+          <p class="text-gray-600 text-center">iShares US Equity Factor Rotation Active ETF</p>
+          <p class="text-green-600 text-center font-semibold">13.6%</p>
+        </div>
+
+        <!-- Company 5 FNDX  -->
         <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
           <a href="/Portfolio/FNDX"></a>
           <h3 class="text-lg font-semibold text-gray-800">FNDX</h3>
@@ -59,20 +67,12 @@ import{c as r,a}from"./footer-CDDkkibT.js";document.addEventListener("DOMContent
           <p class="text-green-600 text-center font-semibold">10.2%</p>
         </div>
 
-        <!-- Company 5 XZMU.L -->
+        <!-- Company 6 XZMU.L -->
         <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
           <a href="/Portfolio/XZMU.L"></a>
           <h3 class="text-lg font-semibold text-gray-800">XZMU.L</h3>
           <p class="text-gray-600 text-center">Xtrackers MSCI USA ESG UCITS ETF 1C</p>
           <p class="text-green-600 text-center font-semibold">10.2%</p>
-        </div>
-
-        <!-- Company 6 LVHI  -->
-        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
-          <a href="/Portfolio/LVHI"></a>
-          <h3 class="text-lg font-semibold text-gray-800">LVHI</h3>
-          <p class="text-gray-600 text-center">Franklin International Low Volatility High Dividend Index ETF</p>
-          <p class="text-green-600 text-center font-semibold">18.2%</p>
         </div>
 
         <!-- Company 7 006208.TW -->
@@ -83,23 +83,15 @@ import{c as r,a}from"./footer-CDDkkibT.js";document.addEventListener("DOMContent
           <p class="text-green-600 text-center font-semibold">5.56%</p>
         </div>
 
-        <!-- Company 8 INR.PA -->
+        <!-- Company 8 ARGT -->
         <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
-          <a href="/Portfolio/INR.PA"></a>
-          <h3 class="text-lg font-semibold text-gray-800">INR.PA</h3>
-          <p class="text-gray-600 text-center">Amundi MSCI India II UCITS ETF EUR Acc</p>
-          <p class="text-green-600 text-center font-semibold">2.43%</p>
+          <a href="/Portfolio/ARGT"></a>
+          <h3 class="text-lg font-semibold text-gray-800">ARGT</h3>
+          <p class="text-gray-600 text-center">Global X MSCI Argentina ETF</p>
+          <p class="text-green-600 text-center font-semibold">4.65%%</p>
         </div>
 
-        <!-- Company 9 MLPX  -->
-        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
-          <a href="/Portfolio/MLPX"></a>
-          <h3 class="text-lg font-semibold text-gray-800">MLPX</h3>
-          <p class="text-gray-600 text-center">Global X MLP & Energy Infrastructure ETF</p>
-          <p class="text-green-600 text-center font-semibold">1.63%</p>
-        </div>
-
-        <!-- Company 10 QDVE.DE -->
+        <!-- Company 9 QDVE.DE -->
         <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
           <a href="/Portfolio/QDVE.DE"></a>
           <h3 class="text-lg font-semibold text-gray-800">QDVE.DE</h3>
@@ -107,20 +99,28 @@ import{c as r,a}from"./footer-CDDkkibT.js";document.addEventListener("DOMContent
           <p class="text-green-600 text-center font-semibold">2.84%</p>
         </div>
 
-        <!-- Company 11 DXJ -->
+        <!-- Company 10 INR.PA -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/INR.PA"></a>
+          <h3 class="text-lg font-semibold text-gray-800">INR.PA</h3>
+          <p class="text-gray-600 text-center">Amundi MSCI India II UCITS ETF EUR Acc</p>
+          <p class="text-green-600 text-center font-semibold">2.43%</p>
+        </div>
+
+        <!-- Company 11 MLPX  -->
+        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
+          <a href="/Portfolio/MLPX"></a>
+          <h3 class="text-lg font-semibold text-gray-800">MLPX</h3>
+          <p class="text-gray-600 text-center">Global X MLP & Energy Infrastructure ETF</p>
+          <p class="text-green-600 text-center font-semibold">1.63%</p>
+        </div>
+
+        <!-- Company 12 DXJ -->
         <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
           <a href="/Portfolio/DXJ"></a>
           <h3 class="text-lg font-semibold text-gray-800">DXJ</h3>
           <p class="text-gray-600 text-center">WisdomTree Japan Hedged Equity Fund</p>
           <p class="text-green-600 text-center font-semibold">0.728%</p>
-        </div>
-
-        <!-- Company 12 ARGT -->
-        <div class="flex flex-col items-center p-6 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition">
-          <a href="/Portfolio/ARGT"></a>
-          <h3 class="text-lg font-semibold text-gray-800">ARGT</h3>
-          <p class="text-gray-600 text-center">Global X MSCI Argentina ETF</p>
-          <p class="text-green-600 text-center font-semibold">4.65%%</p>
         </div>
 
       </div>
