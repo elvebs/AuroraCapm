@@ -1,4 +1,4 @@
-import{c as o,a as i}from"./footer-eAJP7J39.js";document.addEventListener("DOMContentLoaded",()=>{const e=o();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as a,a as i}from"./footer-DRsGtOvg.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
@@ -170,6 +170,14 @@ import{c as o,a as i}from"./footer-eAJP7J39.js";document.addEventListener("DOMCo
                 </svg>
                 Download PDF
               </a>
+              <li>
+              <a href="./downloads/Composition_AuroraCapm.xlsx" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-green-600 to-green-500 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-green-400 hover:to-green-300 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+                <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v8m-4-4h8" />
+                </svg>
+                Download Excel
+              </a>
+            </li>
             <li>
               <a href="./downloads/Presentation_October_2024.pptx" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-blue-600 to-blue-500 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-blue-400 hover:to-blue-300 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
                 <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
@@ -197,4 +205,4 @@ import{c as o,a as i}from"./footer-eAJP7J39.js";document.addEventListener("DOMCo
     </div>
   </div>
 </div>
-  `;const a=i();document.body.appendChild(a)});
+  `;const o=i();document.body.appendChild(o)});
