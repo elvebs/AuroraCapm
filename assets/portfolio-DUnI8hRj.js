@@ -1,4 +1,4 @@
-import{c as a,a as r}from"./footer-BawRcEt7.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as a,a as r}from"./footer-PiBz2C01.js";document.addEventListener("DOMContentLoaded",()=>{const e=a();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
   <!-- Background Image -->
   <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
@@ -28,10 +28,10 @@ import{c as a,a as r}from"./footer-BawRcEt7.js";document.addEventListener("DOMCo
       <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
 
         <!-- Company 1 LVHI  -->
-        <div class="flex flex-col items-center p-8 border rounded-lg shadow-lg bg-gray-50 hover:bg-gray-100 transition hover:shadow-lg hover:scale-105 transform duration-200 ease-in-out">
-          <h3 class="text-2xl font-bold text-gray-800">LVHI</h3>
+        <div class="flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition hover:shadow-lg hover:scale-105 transform duration-200 ease-in-out">
+          <h3 class="text-2xl font-bold text-gray-900">LVHI</h3>
           <p class="text-gray-600 text-center mt-2">Franklin International Low Volatility High Dividend Index ETF</p>
-          <p class="text-green-600 text-3xl font-semibold mt-4">18.2%</p>
+          <p class="text-gray-800 text-2xl font-semibold mt-4">18.2%</p> <!-- Neutral tone for allocation percentage -->
           <p class="text-gray-600 mt-4 leading-8 text-base">This ETF focuses on high-dividend, low-volatility equities in developed markets outside the U.S. By investing primarily in profitable companies with high dividend yields, LVHI aligns with our portfolio’s goal of minimizing volatility while providing steady income.</p>
         </div>
 
