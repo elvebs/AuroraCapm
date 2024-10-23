@@ -21,7 +21,7 @@ import{c as o,a as r}from"./footer-PiBz2C01.js";document.addEventListener("DOMCo
   <div class="relative px-6 py-12 sm:px-6 sm:py-16 lg:px-8">
     <div class="mx-auto max-w-7xl">
       <h2 class="text-2xl font-semibold tracking-tight text-gray-900 sm:text-3xl text-center" data-aos="fade-up">
-        Current
+        Current Portfolio Breakdown
       </h2>
 
       <!-- Companies Grid -->
