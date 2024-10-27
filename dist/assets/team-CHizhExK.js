@@ -1,4 +1,4 @@
-import{c as t,a as s}from"./footer-PiBz2C01.js";document.addEventListener("DOMContentLoaded",()=>{const e=t();document.body.insertBefore(e,document.body.firstChild);const l=document.getElementById("app");l.innerHTML=`
+import{c as t,a as s}from"./footer-dk2leo8a.js";document.addEventListener("DOMContentLoaded",()=>{const e=t();document.body.insertBefore(e,document.body.firstChild);const l=document.getElementById("app");l.innerHTML=`
     <div class="bg-white py-24 sm:py-32">
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:mx-0">

@@ -1,54 +1,8 @@
-// src/portfolio.js
-import './main.css';
-import { createHeader } from './components/header.js';
-import { createFooter } from './components/footer.js';
-
-document.addEventListener('DOMContentLoaded', () => {
-  // Inject the header at the top of the body
-  const header = createHeader();
-  document.body.insertBefore(header, document.body.firstChild);
-
-  // Sample stock data
-  const stockData = {
-    'lvhi': { name: 'LVHI US', description: 'This ETF focuses on high-dividend, low-volatility equities in developed markets outside the U.S. By investing primarily in profitable companies with high dividend yields, LVHI aligns with our portfolio’s goal of minimizing volatility while providing steady income', ownership: '18.2'},
-    'sgld': { name: 'SGLD LN', description: 'SGLD.L provides direct exposure to gold, acting as a hedge against inflation and market downturns. With gold’s historical role as a safe-haven asset, this investment plays a critical part in reducing overall portfolio risk during market turbulence.', ownership: '15.2' },
-    'dgrw': { name: 'DGRW US', description: 'DGRW targets U.S. dividend-paying stocks with strong growth potential. This fundamentally weighted index focuses on companies with robust earnings and dividend growth characteristics, enhancing the portfolio with both income and growth opportunities', ownership: '14.9' },
-    'dynf': { name: 'DYNF US', description: 'DYNF employs a multi-factor approach to capture returns from various equity factors such as value, momentum, and quality. This diversified strategy offers a balanced way to enhance returns across different market conditions.', ownership: '13.6' },
-    'fndx': { name: 'FNDX US', description: 'NDX provides exposure to large-cap developed market companies outside the U.S., focusing on fundamental metrics rather than market capitalization. This value-oriented approach prioritizes firms with strong financials, ensuring long-term stability', ownership: '10.2' },
-    'xzmu.l': { name: 'XZMU LN', description: 'XZMU.L tracks the MSCI USA Low Carbon SRI Leaders Index, offering exposure to U.S. large- and mid-cap companies with low carbon emissions and high ESG ratings. This responsible investing strategy aligns with sustainable trends in the market', ownership: '10.1' },
-    '006208.tw': { name: '006208 TT', description: 'This ETF offers exposure to the top 50 companies listed on the Taiwan Stock Exchange, providing a gateway to the growing Taiwanese market. The focus on established firms enhances stability while capturing potential growth opportunities', ownership: '5.56' },
-    'argt': { name: 'ARGT US', description: 'ARGT invests in companies listed in Argentina, providing diversification through exposure to this emerging market. This investment aims to capitalize on Argentinas unique economic landscape while balancing overall portfolio risk', ownership: '4.65' },
-    'qdve.de': { name: 'QDVE GR', description: 'QDVE.DE focuses on the technology sector within the S&P 500, investing in companies at the forefront of innovation and growth. This sector-specific strategy enhances exposure to technological advancements and growth potentia', ownership: '2.84' },
-    'inr.pa': { name: 'INR FP', description: 'This ETF provides exposure to large- and mid-cap companies in India, tapping into one of the fastest-growing economies globally. INR.PA offers diversification and potential growth through Indias robust market opportunities', ownership: '2.43' },
-    'mlpx': { name: 'MLPX US', description: 'Global X MLP & Energy Infrastructure ETF offers investors exposure to the energy sector with a focus on master limited partnerships (MLPs). This investment provides diversification and income potential through energy infrastructure assets.', ownership: '1.63%' },
-    'DXJ': { name: 'DXJ US', description: 'DXJ provides a hedge against currency fluctuations while investing in Japanese equities. This investment offers exposure to Japans market opportunities while mitigating currency risk.', ownership: '0.728%' },
-  };
-
-  // Function to open modal with stock info
-  function openModal(stockId) {
-    const modal = document.getElementById('modal');
-    const stockInfo = document.getElementById('modal-content');
-    const stock = stockData[stockId];
-
-    if (stock) {
-      stockInfo.innerHTML = `
-        <h2 class="text-3xl font-bold mb-4">${stock.name}</h2>
-        <p class="text-gray-700 text-lg mb-4">${stock.description}</p>
-        <p class="text-gray-800 text-2xl font-semibold">Ownership: ${stock.ownership}%</p>
-      `;
-      modal.style.display = 'block';
-    }
-  }
-
-  // Function to close the modal
-  function closeModal() {
-    const modal = document.getElementById('modal');
-    modal.style.display = 'none';
-  }
-
-  // Inject the portfolio
-  const app = document.getElementById('app');
-  app.innerHTML = `
+import{c,a as g}from"./footer-dk2leo8a.js";document.addEventListener("DOMContentLoaded",()=>{const r=c();document.body.insertBefore(r,document.body.firstChild);const a={lvhi:{name:"LVHI US",description:"This ETF focuses on high-dividend, low-volatility equities in developed markets outside the U.S. By investing primarily in profitable companies with high dividend yields, LVHI aligns with our portfolio’s goal of minimizing volatility while providing steady income",ownership:"18.2"},sgld:{name:"SGLD LN",description:"SGLD.L provides direct exposure to gold, acting as a hedge against inflation and market downturns. With gold’s historical role as a safe-haven asset, this investment plays a critical part in reducing overall portfolio risk during market turbulence.",ownership:"15.2"},dgrw:{name:"DGRW US",description:"DGRW targets U.S. dividend-paying stocks with strong growth potential. This fundamentally weighted index focuses on companies with robust earnings and dividend growth characteristics, enhancing the portfolio with both income and growth opportunities",ownership:"14.9"},dynf:{name:"DYNF US",description:"DYNF employs a multi-factor approach to capture returns from various equity factors such as value, momentum, and quality. This diversified strategy offers a balanced way to enhance returns across different market conditions.",ownership:"13.6"},fndx:{name:"FNDX US",description:"NDX provides exposure to large-cap developed market companies outside the U.S., focusing on fundamental metrics rather than market capitalization. This value-oriented approach prioritizes firms with strong financials, ensuring long-term stability",ownership:"10.2"},"xzmu.l":{name:"XZMU LN",description:"XZMU.L tracks the MSCI USA Low Carbon SRI Leaders Index, offering exposure to U.S. large- and mid-cap companies with low carbon emissions and high ESG ratings. This responsible investing strategy aligns with sustainable trends in the market",ownership:"10.1"},"006208.tw":{name:"006208 TT",description:"This ETF offers exposure to the top 50 companies listed on the Taiwan Stock Exchange, providing a gateway to the growing Taiwanese market. The focus on established firms enhances stability while capturing potential growth opportunities",ownership:"5.56"},argt:{name:"ARGT US",description:"ARGT invests in companies listed in Argentina, providing diversification through exposure to this emerging market. This investment aims to capitalize on Argentinas unique economic landscape while balancing overall portfolio risk",ownership:"4.65"},"qdve.de":{name:"QDVE GR",description:"QDVE.DE focuses on the technology sector within the S&P 500, investing in companies at the forefront of innovation and growth. This sector-specific strategy enhances exposure to technological advancements and growth potentia",ownership:"2.84"},"inr.pa":{name:"INR FP",description:"This ETF provides exposure to large- and mid-cap companies in India, tapping into one of the fastest-growing economies globally. INR.PA offers diversification and potential growth through Indias robust market opportunities",ownership:"2.43"},mlpx:{name:"MLPX US",description:"Global X MLP & Energy Infrastructure ETF offers investors exposure to the energy sector with a focus on master limited partnerships (MLPs). This investment provides diversification and income potential through energy infrastructure assets.",ownership:"1.63%"},DXJ:{name:"DXJ US",description:"DXJ provides a hedge against currency fluctuations while investing in Japanese equities. This investment offers exposure to Japans market opportunities while mitigating currency risk.",ownership:"0.728%"}};function s(e){const o=document.getElementById("modal"),l=document.getElementById("modal-content"),t=a[e];t&&(l.innerHTML=`
+        <h2 class="text-3xl font-bold mb-4">${t.name}</h2>
+        <p class="text-gray-700 text-lg mb-4">${t.description}</p>
+        <p class="text-gray-800 text-2xl font-semibold">Ownership: ${t.ownership}%</p>
+      `,o.style.display="block")}function i(){const e=document.getElementById("modal");e.style.display="none"}const n=document.getElementById("app");n.innerHTML=`
     <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
       <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
 
@@ -216,27 +170,4 @@ document.addEventListener('DOMContentLoaded', () => {
     </div>
   </div>
 </div>
-  `;
-
-  // Inject the footer at the bottom of the body
-  const footer = createFooter();
-  document.body.appendChild(footer);
-
-  // Attach event listeners to stock items
-  document.querySelectorAll('.stock-item').forEach(item => {
-    item.addEventListener('click', () => {
-      const stockId = item.getAttribute('data-stock-id');
-      openModal(stockId);
-    });
-  });
-
-  // Attach event listener to close the modal
-  document.getElementById('close-modal').addEventListener('click', closeModal);
-
-  // Close modal if clicking outside of modal content
-  document.getElementById('modal').addEventListener('click', (event) => {
-    if (event.target === document.getElementById('modal')) {
-      closeModal();
-    }
-  });
-});
+  `;const d=g();document.body.appendChild(d),document.querySelectorAll(".stock-item").forEach(e=>{e.addEventListener("click",()=>{const o=e.getAttribute("data-stock-id");s(o)})}),document.getElementById("close-modal").addEventListener("click",i),document.getElementById("modal").addEventListener("click",e=>{e.target===document.getElementById("modal")&&i()})});
