@@ -71,7 +71,7 @@ import{c as o,a as r}from"./footer-PiBz2C01.js";document.addEventListener("DOMCo
         <div class="flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition hover:shadow-lg hover:scale-105 transform duration-200 ease-in-out">
           <h3 class="text-2xl font-bold text-gray-900">XZMU.L</h3>
           <p class="text-gray-600 text-center mt-2">Xtrackers MSCI USA ESG UCITS ETF 1C</p>
-          <p class="text-gray-800 text-2xl font-semibold mt-4">10.2%</p> <!-- Neutral tone for allocation percentage -->
+          <p class="text-gray-800 text-2xl font-semibold mt-4">10.1%</p> <!-- Neutral tone for allocation percentage -->
           <p class="text-gray-600 mt-4 leading-8 text-base">XZMU.L tracks the MSCI USA Low Carbon SRI Leaders Index, offering exposure to U.S. large- and mid-cap companies with low carbon emissions and high ESG ratings. This responsible investing strategy aligns with sustainable trends in the market.</p>
         </div>
 
