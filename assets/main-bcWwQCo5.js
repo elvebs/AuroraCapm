@@ -112,7 +112,7 @@ import{c as l,a as i}from"./footer-dk2leo8a.js";document.addEventListener("DOMCo
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/Luce.jpeg" alt="" style="object-position: center top;">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/Luce2.jpeg" alt="" style="object-position: center top;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Yi Lu</h3>
         <p class="text-base leading-7 text-gray-600">Data Engineer</p>
         <ul role="list" class="mt-6 flex gap-x-6">
