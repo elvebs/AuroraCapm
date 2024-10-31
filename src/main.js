@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
     </div>
     <ul role="list" class="mx-auto mt-20 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/LeoG.jpeg" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/Leo.jpeg" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Leonardo Mario Di Gennaro</h3>
         <p class="text-base leading-7 text-gray-600">Risk Analyst</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <!-- More people... -->
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/ptsara-1.png" alt="" style="object-position: center;">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/Sara.jpeg" alt="" style="object-position: center;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Sara Elvebakk</h3>
         <p class="text-base leading-7 text-gray-600">Software Developer</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/NicP.png" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/Nicola.jpeg" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Nicola Fochi</h3>
         <p class="text-base leading-7 text-gray-600">Portfolio Manager</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/ptluce.jpg" alt="" style="object-position: center top;">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/Luce2.jpeg" alt="" style="object-position: center top;">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Yi Lu</h3>
         <p class="text-base leading-7 text-gray-600">Data Engineer</p>
         <ul role="list" class="mt-6 flex gap-x-6">
@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
       </li>
       
       <li>
-        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/AleP.png" alt="">
+        <img class="aspect-[2/2] w-full rounded-2xl object-cover" src="./images/Ale.jpeg" alt="">
         <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">Alessandro Zanichelli</h3>
         <p class="text-base leading-7 text-gray-600">Quantative Analyst</p>
         <ul role="list" class="mt-6 flex gap-x-6">
