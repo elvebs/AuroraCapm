@@ -1,11 +1,10 @@
-import{c as m,a as x}from"./footer-CGV7D3jw.js";document.addEventListener("DOMContentLoaded",()=>{const a=m();document.body.insertBefore(a,document.body.firstChild);const n={lvhi:{name:"LVHI US",description:"Focuses on international stocks that offer both low volatility and high dividends, aiming for stable income with reduced risk.",ownership:"18.2"},sgld:{name:"SGLD LN",description:"A physical gold-backed exchange-traded commodity, offering investors direct exposure to gold price movements.",ownership:"15.2"},dgrw:{name:"DGRW US",description:"Targets U.S. companies with high-quality dividend growth potential, aiming to deliver income with growth characteristics.",ownership:"14.9"},dynf:{name:"DYNF US",description:"Actively managed U.S. equity ETF that rotates exposure across various investment factors, such as value, quality, and momentum, based on market conditions.",ownership:"13.6"},fndx:{name:"FNDX US",description:"Focuses on large U.S. companies weighted based on fundamental factors such as sales, cash flow, and dividends, rather than market cap.",ownership:"10.2"},"xzmu.l":{name:"XZMU L",description:"Provides exposure to U.S. large and mid-cap stocks screened for environmental, social, and governance (ESG) criteria",ownership:"10.1"},"006208.tw":{name:"006208 TT",description:"This ETF offers exposure to the top 50 companies listed on the Taiwan Stock Exchange, providing a gateway to the growing Taiwanese market. The focus on established firms enhances stability while capturing potential growth opportunities",ownership:"5.56"},argt:{name:"ARGT",description:"racks the performance of the 50 largest companies in Taiwan, giving exposure to Taiwan’s economy and key sectors like technology and manufacturing.",ownership:"4.65"},"qdve.de":{name:"QDVE",description:"Tracks the S&P 500 Information Technology sector, offering exposure to U.S. tech giants within the S&P 500 index.",ownership:"2.84"},mlpx:{name:"MLPX US",description:"Focuses on U.S. and Canadian energy infrastructure companies, including Master Limited Partnerships (MLPs), which provide income-oriented exposure to energy and infrastructure.",ownership:"1.63"},DXJ:{name:"DXJ US",description:" Invests in Japanese equities with a hedge against yen fluctuations, reducing currency risk for USD-based investors.",ownership:"0.728"}},o={"inr.pa":{name:"INR",description:"INR PA., formly part of the portfolio for exposure to Indian large and mid-cap companies across diverse sectors, reflecting India’s growing economy.",ownership:"2.43"}};function s(e,t=!1){const c=document.getElementById("modal"),g=document.getElementById("modal-content"),r=t?o[e]:n[e];r&&(g.innerHTML=`
-        <h2 class="text-3xl font-bold mb-4">${r.name}</h2>
-        <p class="text-gray-700 text-lg mb-4">${r.description}</p>
-        <p class="text-gray-800 text-2xl font-semibold">Ownership: ${r.ownership}</p>
-      `,c.style.display="block")}function i(){const e=document.getElementById("modal");e.style.display="none"}const d=document.getElementById("app");d.innerHTML=`
+import{c as u,a as h}from"./footer-CGV7D3jw.js";document.addEventListener("DOMContentLoaded",()=>{const a=u();document.body.insertBefore(a,document.body.firstChild);const t={"002311.ch":{name:"002311 CH",description:"Guangdong Haid Group Co., Limited",ownership:"0.211"},"2170.jt":{name:"2170 JT",description:"Link and Motivation Inc.",ownership:"0.117"},"300218.ch":{name:"300218 CH",description:"Anhui Anli Material Technology Co., Ltd..",ownership:"0.661"},"300628.ch":{name:"300628 CH",description:"Yealink Network Technology Co., Ltd",ownership:"0.264"},"4203.jt":{name:"4203 JT",description:"Sumitomo Bakelite Company Limited",ownership:"0.289"},"4766.tt":{name:"4766 TT",description:"Nan Pao Resins Chemical Co., Ltd.",ownership:"0.538"},"5904.tt":{name:"5904 TT",description:"POYA International Co., Ltd.",ownership:"0.544"},"600566.c1":{name:"600566 C1",description:"Hubei Jumpcan Pharmaceutical Co., Ltd.",ownership:"0.336"},"603040.ch":{name:"603040 CH",description:"Hangzhou XZB Tech Co., Ltd",ownership:"0.215"},"6113.jt":{name:"6113 JT",description:"Amada Co., Ltd.",ownership:"0.489"},"6498.jp":{name:"6498 JP",description:"KITZ Corporation.",ownership:"0.899"},"6503.jt":{name:"6503 JT",description:"Mitsubishi Electric Corporation.",ownership:"0.149"},"7367.jp":{name:"7367 JP",description:"CELM,Inc.",ownership:"0.292"},"9739.jt":{name:"9739 JT",description:"NSW Inc.",ownership:"0.612"},"alsn.us":{name:"ALSN US",description:"Allison Transmission Holdings, Inc.",ownership:"0.083"},"alv.us":{name:"ALV US",description:"Autoliv, Inc.",ownership:"0.106"},"atea.no":{name:"ATEA NO",description:"Atea ASA.",ownership:"0.137"},"bby.us":{name:"BBY US",description:"Best Buy Co., Inc.",ownership:"0.103"},"ctra.us":{name:"CTRA US",description:"Coterra Energy Inc.",ownership:"0.116"},"g.us":{name:"G US",description:"Genpact Limited.",ownership:"0.191"},"hal.us":{name:"HAL US",description:"Halliburton Company.",ownership:"0.046"},"imi.ln":{name:"IMI LN",description:"IMI plc.",ownership:"0.199"},"jnj.us":{name:"JNJ US",description:"Johnson & Johnson.",ownership:"0.285"},"loup.fp":{name:"LOUP FP",description:"L.D.C. S.A.",ownership:"0.885"},"mplx.us":{name:"MPLX US",description:"MPLX LP.",ownership:"0.265"},"mrk.us":{name:"MRK US",description:"Merck & Co., Inc.",ownership:"0.324"},"mtx.us":{name:"MTX US",description:"Minerals Technologies Inc.",ownership:"0.135"},"nvg.pl":{name:"NVG PL",description:"The Navigator Company, S.A.",ownership:"0.653"},"nxt.us":{name:"NXT US",description:"NEXT plc.",ownership:"0.145"},"omc.us":{name:"OMC US",description:"Omnicom Group Inc.",ownership:"0.171"},"smin.ln":{name:"SMIN LN",description:"Smiths Group plc.",ownership:"0.237"},"tgt.us":{name:"TGT US",description:"Target Corporation.",ownership:"0.084"},"tnc.us":{name:"TNC US",description:"Tennant Company.",ownership:"0.154"},"sgld.ln":{name:"SGLD LN",description:"Invesco Physical Gold ETC.",ownership:"14.952"},"xzmu.ln":{name:"XZMU LN",description:"Xtrackers MSCI USA ESG UCITS ETF 1C.",ownership:"10.429"},"qdve.gr":{name:"QDVE GR",description:"iShares S&P 500 Information Technology Sector UCITS ETF USD.",ownership:"3.608"},"lvhi.us":{name:"LVHI US",description:"Franklin International Low Volatility High Dividend Index ETF.",ownership:"9.739"},"mlpx.us":{name:"MLPX US",description:"Global X MLP & Energy Infrastructure ETF.",ownership:"1.708"},"dgrw.us":{name:"DGRW US",description:"WisdomTree U.S. Quality Dividend Growth Fund.",ownership:"14.976"},"dxj.us":{name:"DXJ US",description:"WisdomTree Japan Hedged Equity Fund",ownership:"0.728"},"dynf.us":{name:"DYNF US",description:"iShares U.S. Equity Factor Rotation Active ETF.",ownership:"13.816"},"fndx.us":{name:"FNDX US",description:"Schwab Fundamental U.S. Large Company ETF.",ownership:"10.296"},"argt.us":{name:"ARGT US",description:"Global X MSCI Argentina ETF.",ownership:"4.788"},"006208.tt":{name:"006208 TT",description:"Fubon FTSE TWSE Taiwan 50 ETF.",ownership:"5.026"}},n={"inr.pa":{name:"INR",description:"INR PA., formly part of the portfolio.",ownership:"2.43"}};function r(e,o){const i=o?t[e]:n[e],c=document.getElementById("modal"),p=document.getElementById("modal-content"),m=i.ownership+"%";p.innerHTML=`
+      <h2 class="text-2xl font-bold text-gray-900">${i.name}</h2>
+      <p class="text-gray-600 mt-2">${i.description}</p>
+      <p class="text-gray-600 mt-2">${m}</p>
+    `,c.style.display="flex"}function s(){const e=document.getElementById("modal");e.style.display="none"}const d=document.getElementById("app");d.innerHTML=`
     <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
       <img src="./images/DSCF4004.JPG" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" style="opacity: 0.5;">
-
       <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
           <h1 class="mt-2 text-6xl font-bold tracking-tight text-white sm:text-7xl">PORTFOLIO</h1>
@@ -14,76 +13,20 @@ import{c as m,a as x}from"./footer-CGV7D3jw.js";document.addEventListener("DOMCo
       </div>
     </div>
 
+    <!-- Current Equities and ETFs Section -->
     <div class="bg-white relative mt-5">
       <div class="relative px-6 py-12 sm:px-6 sm:py-16 lg:px-8">
         <div class="mx-auto max-w-7xl">
-          <h2 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-4xl mt-4">Current</h2>
+          <h2 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-3xl mt-4">Current</h2>
           <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
             
-      
-          <div data-stock-id="lvhi" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">LVHI</h3>
-              <p class="text-gray-600 text-center mt-2">Franklin International Low Volatility High Dividend Index ETF</p>
-            </div>
-
-      
-            <div data-stock-id="sgld" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">SGLD.L</h3>
-              <p class="text-gray-600 text-center mt-2">Invesco Physical Gold ETC</p>
-            </div>
-
-         
-            <div data-stock-id="dgrw" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">DGRW</h3>
-              <p class="text-gray-600 text-center mt-2">WisdomTree U.S. Quality Dividend Growth Fund</p>
-            </div>
-
-         
-            <div data-stock-id="dynf" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">DYNF</h3>
-              <p class="text-gray-600 text-center mt-2">iShares U.S. Equity Factor Rotation Active ETF</p>
-            </div>
-
-        
-            <div data-stock-id="fndx" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">FNDX</h3>
-              <p class="text-gray-600 text-center mt-2">Schwab Fundamental U.S. Large Company ETF</p>
-            </div>
-
-        
-            <div data-stock-id="xzmu.l" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">XZMU.L</h3>
-              <p class="text-gray-600 text-center mt-2">Xtrackers MSCI USA ESG UCITS ETF 1C ETF</p>
-            </div>
-
-            
-            <div data-stock-id="006208.tw" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">006208.TW</h3>
-              <p class="text-gray-600 text-center mt-2">Fubon FTSE TWSE Taiwan 50 ETF</p>
-            </div>
-
-            
-            <div data-stock-id="argt" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">ARGT</h3>
-              <p class="text-gray-600 text-center mt-2">Global X MSCI Argentina ETF</p>
-            </div>
-
-            
-            <div data-stock-id="qdve.de" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">QDVE.DE</h3>
-              <p class="text-gray-600 text-center mt-2">iShares S&P 500 Information Technology Sector UCITS ETF USD</p>
-            </div>
-            
-            <div data-stock-id="mlpx" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">MLPX</h3>
-              <p class="text-gray-600 text-center mt-2">Global X MLP & Energy Infrastructure ETF</p>
-            </div>
-         
-            <div data-stock-id="DXJ" class="stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-              <h3 class="text-2xl font-bold text-gray-900">DXJ</h3>
-              <p class="text-gray-600 text-center mt-2">WisdomTree Japan Hedged Equity Fund</p>
-            </div>
-
+            ${Object.keys(t).map(e=>`
+              <div data-stock-id="${e}" class="current-stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
+                <h3 class="text-2xl font-bold text-gray-900">${t[e].name}</h3>
+                <p class="text-gray-600 text-center mt-2">${t[e].description}</p>
+              </div>
+            `).join("")}
+  
           </div>
         </div>
       </div>
@@ -104,10 +47,10 @@ import{c as m,a as x}from"./footer-CGV7D3jw.js";document.addEventListener("DOMCo
           <h2 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-3xl mt-4">Historical</h2>
           <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
             
-            ${Object.keys(o).map(e=>`
+            ${Object.keys(n).map(e=>`
               <div data-stock-id="${e}" class="historical-stock-item flex flex-col items-center p-8 border rounded-lg shadow-md bg-gray-50 hover:bg-gray-100 transition cursor-pointer">
-                <h3 class="text-2xl font-bold text-gray-900">${o[e].name}</h3>
-                <p class="text-gray-600 text-center mt-2">${o[e].description}</p>
+                <h3 class="text-2xl font-bold text-gray-900">${n[e].name}</h3>
+                <p class="text-gray-600 text-center mt-2">${n[e].description}</p>
               </div>
             `).join("")}
   
@@ -116,7 +59,7 @@ import{c as m,a as x}from"./footer-CGV7D3jw.js";document.addEventListener("DOMCo
       </div>
     </div>
 
-    <!-- Horizontal Line -->
+ <!-- Horizontal Line -->
     <div class="my-10">
     <hr class="border-t-2 border-gray-300 w-5/6 mx-auto"/>
     </div>
@@ -204,4 +147,4 @@ import{c as m,a as x}from"./footer-CGV7D3jw.js";document.addEventListener("DOMCo
     </div>
   </div>
 </div>
-  `;const l=x();document.body.appendChild(l),document.querySelectorAll(".stock-item").forEach(e=>{e.addEventListener("click",()=>{const t=e.getAttribute("data-stock-id");s(t)})}),document.querySelectorAll(".historical-stock-item").forEach(e=>{e.addEventListener("click",()=>{const t=e.getAttribute("data-stock-id");s(t,!0)})}),document.getElementById("close-modal").addEventListener("click",i),document.getElementById("modal").addEventListener("click",e=>{e.target===document.getElementById("modal")&&i()})});
+  `;const l=h();document.body.appendChild(l),document.querySelectorAll(".current-stock-item").forEach(e=>{e.addEventListener("click",()=>{const o=e.getAttribute("data-stock-id");r(o,!0)})}),document.querySelectorAll(".historical-stock-item").forEach(e=>{e.addEventListener("click",()=>{const o=e.getAttribute("data-stock-id");r(o,!1)})}),document.getElementById("close-modal").addEventListener("click",s),document.getElementById("modal").addEventListener("click",e=>{e.target===document.getElementById("modal")&&s()})});
