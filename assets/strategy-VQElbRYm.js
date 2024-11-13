@@ -1,4 +1,4 @@
-import{c as r,a as l}from"./footer-BOGDlfy4.js";document.addEventListener("DOMContentLoaded",()=>{const e=r();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as r,a as l}from"./footer-CGV7D3jw.js";document.addEventListener("DOMContentLoaded",()=>{const e=r();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
   <!-- Main Strategy Page Wrapper -->
   <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32 mb-16">
     <img src="./images/DSCF4709-1.jpg" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">

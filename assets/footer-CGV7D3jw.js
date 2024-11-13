@@ -66,7 +66,7 @@
           <div class="mb-6 lg:mb-0">
             <h3 class="text-lg font-semibold mb-4">Company</h3>
             <ul class="space-y-2">
-              <li><a href="./main" class="text-gray-600 hover:text-gray-800">About Us</a></li>
+              <li><a href="./" class="text-gray-600 hover:text-gray-800">About Us</a></li>
               <li><a href="./team" class="text-gray-600 hover:text-gray-800">Team</a></li>
               <li><a href="./contacts" class="text-gray-600 hover:text-gray-800">Contact</a></li>
             </ul>
