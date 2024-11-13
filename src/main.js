@@ -37,16 +37,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
 <!-- SECOND SECTION -->
 <div class="overflow-hidden bg-white py-32">
-  <div class="mx-auto max-w-7xl px-6 lg:flex lg:px-8 lg:items-start">
+  <div class="mx-auto max-w-7xl px-6 lg:flex lg:gap-16 lg:px-8 lg:items-start">
     
     <!-- Left Section: Text Content -->
     <div class="relative lg:w-full lg:max-w-lg lg:pb-8 flex flex-col">
       
-      <!-- Text Content -->
-      <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl mt-4"> Aurora Capital Management </h2>
-      <p class="mt-4 text-2xl leading-8 text-gray-900">is a purpose-driven asset management firm dedicated to addressing global challenges through strategic investments</p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">We believe that the world's complexities present opportunities for growth and positive impact.</p>
-      <p class="mt-6 text-xl leading-8 text-gray-600">Aurora Capital Management is a dynamic asset management firm based in Lugano, Switzerland. We bring a fresh perspective to the world of asset management, focusing on identifying and supporting innovative companies that are making a positive impact.</p>
+      <!-- Heading and Subtitle -->
+      <h2 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl mt-4">Aurora Capital Management</h2>
+      <p class="mt-4 text-2xl leading-9 text-gray-800">Investing with Insight and Integrity</p>
+      
+      <!-- Description -->
+      <div class="mt-6 text-lg leading-8 text-gray-600 space-y-6">
+        <p>Aurora Capital Management is a dedicated asset management firm committed to helping clients achieve sustainable, long-term growth. Founded with a focus on disciplined investment strategies and transparency, we bring together a team of seasoned professionals with extensive experience across global markets.</p>
+        <p>We manage each investment with the same care as our own, emphasizing accountability and alignment with our clients' interests. With our targeted selection of funds, we provide investors with diverse and innovative options designed to navigate today’s dynamic financial landscape.</p>
+        <p>At Aurora, we believe in building trust through thoughtful strategy, meticulous analysis, and a commitment to protecting and growing our clients’ assets.</p>
+      </div>
       
       <!-- Button and AlogoN Image -->
       <div class="mt-10 flex items-center">
@@ -58,11 +63,11 @@ document.addEventListener('DOMContentLoaded', () => {
     </div>
 
     <!-- Right Section: Two Group Images aligned vertically (stacked) -->
-    <div class="flex-shrink-0 lg:ml-12 lg:self-start flex flex-col space-y-4">
-      <img src="./images/GrouP2.JPG" alt="Group Image 1" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
-      <img src="./images/GrouP.png" alt="Group Image 2" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover">
+    <div class="hidden lg:block lg:w-full lg:max-w-lg lg:pb-1 lg:pl-8 lg:pt-1 lg:pr-1">
+      <img src="./images/GrouP2.JPG" alt="Group Image 1" class="rounded-lg shadow-lg object-cover h-full w-full">
+      <br>
+      <img src="./images/GrouP.png" alt="Group Image 2" class="rounded-lg shadow-lg object-cover h-full w-full">
     </div>
-    
   </div>
 </div>
 
