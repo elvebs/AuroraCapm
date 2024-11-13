@@ -18,7 +18,7 @@ import{c as r,a as l}from"./footer-BOGDlfy4.js";document.addEventListener("DOMCo
       </div>
       <div class="lg:w-7/12 text-center lg:text-left space-y-6">
         <h2 class="text-4xl font-extrabold tracking-tight text-gray-900">October 2024: Strategy Report 1</h2>
-        <p class="text-lg leading-relaxed text-gray-700">This report provides key insight into 
+        <p class="text-lg leading-relaxed text-gray-700">This report provides key insight into our strategic decisions for October 2024.</p>
         <a href="./downloads/Aurora_Capital_Oct_2024.pdf" download class="inline-block bg-gradient-to-r from-red-600 to-orange-600 px-8 py-3 text-white font-medium rounded-full shadow-lg hover:shadow-xl hover:from-red-500 hover:to-orange-500 transition-all duration-300">
           Download PDF
         </a>
