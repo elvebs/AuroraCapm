@@ -139,12 +139,18 @@ import{c as f,a as h}from"./footer-CGV7D3jw.js";document.addEventListener("DOMCo
         </div>
 
         <!-- December 2024 Section -->
-        <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
+         <div class="flex flex-col items-center p-4 border rounded-lg shadow-lg bg-gray-50">
           <h3 class="text-xl font-semibold text-gray-800" data-aos="fade-up">December 2024</h3>
-          <p class="text-gray-600 mt-4">Content for December appendix will be added here.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-  `;const d=h();document.body.appendChild(d),document.querySelectorAll(".current-stock-item").forEach(o=>{o.addEventListener("click",()=>{const e=o.getAttribute("data-stock-id");n(e,!0)})}),document.querySelectorAll(".historical-stock-item").forEach(o=>{o.addEventListener("click",()=>{const e=o.getAttribute("data-stock-id");n(e,!1)})}),document.getElementById("close-modal").addEventListener("click",a),document.getElementById("modal").addEventListener("click",o=>{o.target===document.getElementById("modal")&&a()})});
+          <ul class="mt-4 flex space-x-4">
+            <li>
+              <a href="./downloads/Aurora_Capital_Dec_2024.pdf" download class="flex items-center justify-center rounded-lg bg-gradient-to-r from-red-600 to-orange-600 px-4 py-2 text-base font-semibold text-white shadow-lg hover:from-red-500 hover:to-orange-500 transition-colors duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-offset-2">
+                <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m5-4h4m-4-4h4m-4-4h4m-6 8v-8l4 4-4 4z" />
+                </svg>
+                Download PDF
+              </a>
+              </div>
+           </div>
+          </div>
+       </div>
+`;const d=h();document.body.appendChild(d),document.querySelectorAll(".current-stock-item").forEach(o=>{o.addEventListener("click",()=>{const e=o.getAttribute("data-stock-id");n(e,!0)})}),document.querySelectorAll(".historical-stock-item").forEach(o=>{o.addEventListener("click",()=>{const e=o.getAttribute("data-stock-id");n(e,!1)})}),document.getElementById("close-modal").addEventListener("click",a),document.getElementById("modal").addEventListener("click",o=>{o.target===document.getElementById("modal")&&a()})});

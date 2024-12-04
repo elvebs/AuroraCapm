@@ -1,4 +1,4 @@
-import{c as r,a as l}from"./footer-CGV7D3jw.js";document.addEventListener("DOMContentLoaded",()=>{const e=r();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
+import{c as r,a as o}from"./footer-CGV7D3jw.js";document.addEventListener("DOMContentLoaded",()=>{const e=r();document.body.insertBefore(e,document.body.firstChild);const t=document.getElementById("app");t.innerHTML=`
   <!-- Main Strategy Page Wrapper -->
   <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32 mb-16">
     <img src="./images/DSCF4709-1.jpg" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover">
@@ -46,7 +46,10 @@ import{c as r,a as l}from"./footer-CGV7D3jw.js";document.addEventListener("DOMCo
       </div>
       <div class="lg:w-7/12 text-center lg:text-left space-y-6">
         <h2 class="text-4xl font-extrabold tracking-tight text-gray-900">December 2024: Strategy Report 3</h2>
-        <p class="text-lg leading-relaxed text-gray-700">Our comprehensive strategy for December 2024 is on the way.</p>
+        <p class="text-lg leading-relaxed text-gray-700">This report provides key insights and analysis on portfolio performance and strategic adjustments for December 2024.</p>
+        <a href="./downloads/Aurora_Capital_Dec_2024.pdf" download class="inline-block bg-gradient-to-r from-red-600 to-orange-600 px-8 py-3 text-white font-medium rounded-full shadow-lg hover:shadow-xl hover:from-red-500 hover:to-orange-500 transition-all duration-300">
+          Download PDF
+        </a>
       </div>
     </div>
   </div>
@@ -55,4 +58,4 @@ import{c as r,a as l}from"./footer-CGV7D3jw.js";document.addEventListener("DOMCo
   <!-- Decorative Background -->
   <div class="relative mx-auto max-w-5xl px-6 lg:px-8 py-10 sm:py-10">
 
-  `;const a=l();document.body.appendChild(a)});
+  `;const a=o();document.body.appendChild(a)});
